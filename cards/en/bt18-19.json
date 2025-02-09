@@ -21,7 +21,7 @@
     "inheritedEffect": "[All Turns] While you have 0 or less memory, add\n                            2000 to this Digimon's DP deletion effects'\n                            maximums.",
     "securityEffect": "-",
     "notes": "<a href=\"/products/pack/ver18-19/\">▹Special Booster Ver.2.0 [BT18-19]</a>",
-    "set": { "id": "bt18", "name": "Special Booster Ver.2.0 [BT18-19]" }
+    "set": { "id": "bt18-19", "name": "Special Booster Ver.2.0 [BT18-19]" }
   },
   {
     "id": "BT18-001",
@@ -45,7 +45,7 @@
     "inheritedEffect": "[When Attacking] [Once Per Turn] If you have a red\n                            Tamer, delete 1 of your opponent's Digimon with 3000\n                            DP or less.",
     "securityEffect": "-",
     "notes": "<a href=\"/products/pack/ver18-19/\">▹Special Booster Ver.2.0 [BT18-19]</a>",
-    "set": { "id": "bt18", "name": "Special Booster Ver.2.0 [BT18-19]" }
+    "set": { "id": "bt18-19", "name": "Special Booster Ver.2.0 [BT18-19]" }
   },
   {
     "id": "BT18-002",
@@ -69,7 +69,7 @@
     "inheritedEffect": "[All Turns] While you have another blue Digimon,\n                            this Digimon gets +1000 DP.",
     "securityEffect": "-",
     "notes": "<a href=\"/products/pack/ver18-19/\">▹Special Booster Ver.2.0 [BT18-19]</a>",
-    "set": { "id": "bt18", "name": "Special Booster Ver.2.0 [BT18-19]" }
+    "set": { "id": "bt18-19", "name": "Special Booster Ver.2.0 [BT18-19]" }
   },
   {
     "id": "BT18-003",
@@ -93,7 +93,7 @@
     "inheritedEffect": "[When Attacking] [Once Per Turn] If you have a\n                            yellow Tamer, 1 of your opponent's Digimon gets\n                            -2000 DP for the turn.",
     "securityEffect": "-",
     "notes": "<a href=\"/products/pack/ver18-19/\">▹Special Booster Ver.2.0 [BT18-19]</a>",
-    "set": { "id": "bt18", "name": "Special Booster Ver.2.0 [BT18-19]" }
+    "set": { "id": "bt18-19", "name": "Special Booster Ver.2.0 [BT18-19]" }
   },
   {
     "id": "BT18-004",
@@ -117,7 +117,7 @@
     "inheritedEffect": "[Start of Your Main Phase] By placing 1 Digimon card\n                            with the [Royal Base] trait from your hand face up\n                            as the bottom security card, add your top security\n                            card to the hand.",
     "securityEffect": "-",
     "notes": "<a href=\"/products/pack/ver18-19/\">▹Special Booster Ver.2.0 [BT18-19]</a>",
-    "set": { "id": "bt18", "name": "Special Booster Ver.2.0 [BT18-19]" }
+    "set": { "id": "bt18-19", "name": "Special Booster Ver.2.0 [BT18-19]" }
   },
   {
     "id": "BT18-005",
@@ -141,7 +141,7 @@
     "inheritedEffect": "[All Turns] [Once Per Turn] When this Digimon\n                            deletes your opponent's Digimon in battle, ＜Draw\n                            1＞.",
     "securityEffect": "-",
     "notes": "<a href=\"/products/pack/ver18-19/\">▹Special Booster Ver.2.0 [BT18-19]</a>",
-    "set": { "id": "bt18", "name": "Special Booster Ver.2.0 [BT18-19]" }
+    "set": { "id": "bt18-19", "name": "Special Booster Ver.2.0 [BT18-19]" }
   },
   {
     "id": "BT18-006",
@@ -165,7 +165,7 @@
     "inheritedEffect": "[On Deletion] For each color your opponent's Digimon\n                            and Tamers have, trash the top card of your deck.",
     "securityEffect": "-",
     "notes": "<a href=\"/products/pack/ver18-19/\">▹Special Booster Ver.2.0 [BT18-19]</a>",
-    "set": { "id": "bt18", "name": "Special Booster Ver.2.0 [BT18-19]" }
+    "set": { "id": "bt18-19", "name": "Special Booster Ver.2.0 [BT18-19]" }
   },
   {
     "id": "BT18-007",
@@ -189,7 +189,7 @@
     "inheritedEffect": "＜Retaliation＞ (When only this Digimon is deleted\n                            in battle, delete the Digimon it battled.)",
     "securityEffect": "-",
     "notes": "<a href=\"/products/pack/ver18-19/\">▹Special Booster Ver.2.0 [BT18-19]</a>",
-    "set": { "id": "bt18", "name": "Special Booster Ver.2.0 [BT18-19]" }
+    "set": { "id": "bt18-19", "name": "Special Booster Ver.2.0 [BT18-19]" }
   },
   {
     "id": "BT18-008",
@@ -213,7 +213,7 @@
     "inheritedEffect": "-",
     "securityEffect": "-",
     "notes": "<a href=\"/products/pack/ver18-19/\">▹Special Booster Ver.2.0 [BT18-19]</a>",
-    "set": { "id": "bt18", "name": "Special Booster Ver.2.0 [BT18-19]" }
+    "set": { "id": "bt18-19", "name": "Special Booster Ver.2.0 [BT18-19]" }
   },
   {
     "id": "BT18-009",
@@ -237,7 +237,7 @@
     "inheritedEffect": "-",
     "securityEffect": "-",
     "notes": "<a href=\"/products/pack/ver18-19/\">▹Special Booster Ver.2.0 [BT18-19]</a>",
-    "set": { "id": "bt18", "name": "Special Booster Ver.2.0 [BT18-19]" }
+    "set": { "id": "bt18-19", "name": "Special Booster Ver.2.0 [BT18-19]" }
   },
   {
     "id": "BT18-010",
@@ -261,7 +261,7 @@
     "inheritedEffect": "-",
     "securityEffect": "-",
     "notes": "<a href=\"/products/pack/ver18-19/\">▹Special Booster Ver.2.0 [BT18-19]</a>",
-    "set": { "id": "bt18", "name": "Special Booster Ver.2.0 [BT18-19]" }
+    "set": { "id": "bt18-19", "name": "Special Booster Ver.2.0 [BT18-19]" }
   },
   {
     "id": "BT18-011",
@@ -285,7 +285,7 @@
     "inheritedEffect": "[Your Turn] This Digimon gets +2000 DP.",
     "securityEffect": "-",
     "notes": "<a href=\"/products/pack/ver18-19/\">▹Special Booster Ver.2.0 [BT18-19]</a>",
-    "set": { "id": "bt18", "name": "Special Booster Ver.2.0 [BT18-19]" }
+    "set": { "id": "bt18-19", "name": "Special Booster Ver.2.0 [BT18-19]" }
   },
   {
     "id": "BT18-012",
@@ -309,7 +309,7 @@
     "inheritedEffect": "[When Attacking] [Once Per Turn] Delete 1 of your\n                            opponent's Digimon with 3000 DP or less.",
     "securityEffect": "-",
     "notes": "<a href=\"/products/pack/ver18-19/\">▹Special Booster Ver.2.0 [BT18-19]</a>",
-    "set": { "id": "bt18", "name": "Special Booster Ver.2.0 [BT18-19]" }
+    "set": { "id": "bt18-19", "name": "Special Booster Ver.2.0 [BT18-19]" }
   },
   {
     "id": "BT18-013",
@@ -333,7 +333,7 @@
     "inheritedEffect": "＜Retaliation＞ (When only this Digimon is deleted\n                            in battle, delete the Digimon it battled.)",
     "securityEffect": "-",
     "notes": "<a href=\"/products/pack/ver18-19/\">▹Special Booster Ver.2.0 [BT18-19]</a>",
-    "set": { "id": "bt18", "name": "Special Booster Ver.2.0 [BT18-19]" }
+    "set": { "id": "bt18-19", "name": "Special Booster Ver.2.0 [BT18-19]" }
   },
   {
     "id": "BT18-014",
@@ -357,7 +357,7 @@
     "inheritedEffect": "[When Attacking] [Once Per Turn] Delete 1 of your\n                            opponent's Digimon with 3000 DP or less.",
     "securityEffect": "-",
     "notes": "<a href=\"/products/pack/ver18-19/\">▹Special Booster Ver.2.0 [BT18-19]</a>",
-    "set": { "id": "bt18", "name": "Special Booster Ver.2.0 [BT18-19]" }
+    "set": { "id": "bt18-19", "name": "Special Booster Ver.2.0 [BT18-19]" }
   },
   {
     "id": "BT18-015",
@@ -381,7 +381,7 @@
     "inheritedEffect": "＜Security A. +1＞ (This Digimon checks 1 additional\n                            security card.)",
     "securityEffect": "-",
     "notes": "<a href=\"/products/pack/ver18-19/\">▹Special Booster Ver.2.0 [BT18-19]</a>",
-    "set": { "id": "bt18", "name": "Special Booster Ver.2.0 [BT18-19]" }
+    "set": { "id": "bt18-19", "name": "Special Booster Ver.2.0 [BT18-19]" }
   },
   {
     "id": "BT18-016",
@@ -405,7 +405,7 @@
     "inheritedEffect": "-",
     "securityEffect": "-",
     "notes": "<a href=\"/products/pack/ver18-19/\">▹Special Booster Ver.2.0 [BT18-19]</a>",
-    "set": { "id": "bt18", "name": "Special Booster Ver.2.0 [BT18-19]" }
+    "set": { "id": "bt18-19", "name": "Special Booster Ver.2.0 [BT18-19]" }
   },
   {
     "id": "BT18-017",
@@ -429,7 +429,7 @@
     "inheritedEffect": "-",
     "securityEffect": "-",
     "notes": "<a href=\"/products/pack/ver18-19/\">▹Special Booster Ver.2.0 [BT18-19]</a>",
-    "set": { "id": "bt18", "name": "Special Booster Ver.2.0 [BT18-19]" }
+    "set": { "id": "bt18-19", "name": "Special Booster Ver.2.0 [BT18-19]" }
   },
   {
     "id": "BT18-018",
@@ -453,7 +453,7 @@
     "inheritedEffect": "-",
     "securityEffect": "-",
     "notes": "<a href=\"/products/pack/ver18-19/\">▹Special Booster Ver.2.0 [BT18-19]</a>",
-    "set": { "id": "bt18", "name": "Special Booster Ver.2.0 [BT18-19]" }
+    "set": { "id": "bt18-19", "name": "Special Booster Ver.2.0 [BT18-19]" }
   },
   {
     "id": "BT18-018-p1",
@@ -477,7 +477,7 @@
     "inheritedEffect": "-",
     "securityEffect": "-",
     "notes": "<a href=\"/products/pack/ver18-19/\">▹Special Booster Ver.2.0 [BT18-19]</a>",
-    "set": { "id": "bt18", "name": "Special Booster Ver.2.0 [BT18-19]" }
+    "set": { "id": "bt18-19", "name": "Special Booster Ver.2.0 [BT18-19]" }
   },
   {
     "id": "BT18-019",
@@ -501,7 +501,7 @@
     "inheritedEffect": "-",
     "securityEffect": "-",
     "notes": "<a href=\"/products/pack/ver18-19/\">▹Special Booster Ver.2.0 [BT18-19]</a>",
-    "set": { "id": "bt18", "name": "Special Booster Ver.2.0 [BT18-19]" }
+    "set": { "id": "bt18-19", "name": "Special Booster Ver.2.0 [BT18-19]" }
   },
   {
     "id": "BT18-019-p1",
@@ -525,7 +525,7 @@
     "inheritedEffect": "-",
     "securityEffect": "-",
     "notes": "<a href=\"/products/pack/ver18-19/\">▹Special Booster Ver.2.0 [BT18-19]</a>",
-    "set": { "id": "bt18", "name": "Special Booster Ver.2.0 [BT18-19]" }
+    "set": { "id": "bt18-19", "name": "Special Booster Ver.2.0 [BT18-19]" }
   },
   {
     "id": "BT18-020",
@@ -549,7 +549,7 @@
     "inheritedEffect": "-",
     "securityEffect": "-",
     "notes": "<a href=\"/products/pack/ver18-19/\">▹Special Booster Ver.2.0 [BT18-19]</a>",
-    "set": { "id": "bt18", "name": "Special Booster Ver.2.0 [BT18-19]" }
+    "set": { "id": "bt18-19", "name": "Special Booster Ver.2.0 [BT18-19]" }
   },
   {
     "id": "BT18-021",
@@ -573,7 +573,7 @@
     "inheritedEffect": "＜Jamming＞ (This Digimon can't be deleted in\n                            battles against Security Digimon.)",
     "securityEffect": "-",
     "notes": "<a href=\"/products/pack/ver18-19/\">▹Special Booster Ver.2.0 [BT18-19]</a>",
-    "set": { "id": "bt18", "name": "Special Booster Ver.2.0 [BT18-19]" }
+    "set": { "id": "bt18-19", "name": "Special Booster Ver.2.0 [BT18-19]" }
   },
   {
     "id": "BT18-022",
@@ -597,7 +597,7 @@
     "inheritedEffect": "[All Turns] When this Digimon would leave the battle\n                            area other than by your effects, you may play 1\n                            Tamer card with inherited effects from this\n                            Digimon's digivolution cards without paying the\n                            cost.",
     "securityEffect": "-",
     "notes": "<a href=\"/products/pack/ver18-19/\">▹Special Booster Ver.2.0 [BT18-19]</a>",
-    "set": { "id": "bt18", "name": "Special Booster Ver.2.0 [BT18-19]" }
+    "set": { "id": "bt18-19", "name": "Special Booster Ver.2.0 [BT18-19]" }
   },
   {
     "id": "BT18-022-p1",
@@ -621,7 +621,7 @@
     "inheritedEffect": "[All Turns] When this Digimon would leave the battle\n                            area other than by your effects, you may play 1\n                            Tamer card with inherited effects from this\n                            Digimon's digivolution cards without paying the\n                            cost.",
     "securityEffect": "-",
     "notes": "<a href=\"/products/pack/ver18-19/\">▹Special Booster Ver.2.0 [BT18-19]</a>",
-    "set": { "id": "bt18", "name": "Special Booster Ver.2.0 [BT18-19]" }
+    "set": { "id": "bt18-19", "name": "Special Booster Ver.2.0 [BT18-19]" }
   },
   {
     "id": "BT18-023",
@@ -645,7 +645,7 @@
     "inheritedEffect": "[When Attacking] [Once Per Turn] You may return 1\n                            level 3 Digimon to the hand.",
     "securityEffect": "-",
     "notes": "<a href=\"/products/pack/ver18-19/\">▹Special Booster Ver.2.0 [BT18-19]</a>",
-    "set": { "id": "bt18", "name": "Special Booster Ver.2.0 [BT18-19]" }
+    "set": { "id": "bt18-19", "name": "Special Booster Ver.2.0 [BT18-19]" }
   },
   {
     "id": "BT18-024",
@@ -669,7 +669,7 @@
     "inheritedEffect": "[When Attacking] [Once Per Turn] You may return 1\n                            level 3 Digimon to the hand.",
     "securityEffect": "-",
     "notes": "<a href=\"/products/pack/ver18-19/\">▹Special Booster Ver.2.0 [BT18-19]</a>",
-    "set": { "id": "bt18", "name": "Special Booster Ver.2.0 [BT18-19]" }
+    "set": { "id": "bt18-19", "name": "Special Booster Ver.2.0 [BT18-19]" }
   },
   {
     "id": "BT18-025",
@@ -693,7 +693,7 @@
     "inheritedEffect": "＜Jamming＞ (This Digimon can't be deleted in\n                            battles against Security Digimon.)",
     "securityEffect": "-",
     "notes": "<a href=\"/products/pack/ver18-19/\">▹Special Booster Ver.2.0 [BT18-19]</a>",
-    "set": { "id": "bt18", "name": "Special Booster Ver.2.0 [BT18-19]" }
+    "set": { "id": "bt18-19", "name": "Special Booster Ver.2.0 [BT18-19]" }
   },
   {
     "id": "BT18-025-p1",
@@ -717,7 +717,7 @@
     "inheritedEffect": "＜Jamming＞ (This Digimon can't be deleted in\n                            battles against Security Digimon.)",
     "securityEffect": "-",
     "notes": "<a href=\"/products/pack/ver18-19/\">▹Special Booster Ver.2.0 [BT18-19]</a>",
-    "set": { "id": "bt18", "name": "Special Booster Ver.2.0 [BT18-19]" }
+    "set": { "id": "bt18-19", "name": "Special Booster Ver.2.0 [BT18-19]" }
   },
   {
     "id": "BT18-026",
@@ -741,7 +741,7 @@
     "inheritedEffect": "[All Turns] This Digimon gets +2000 DP.",
     "securityEffect": "-",
     "notes": "<a href=\"/products/pack/ver18-19/\">▹Special Booster Ver.2.0 [BT18-19]</a>",
-    "set": { "id": "bt18", "name": "Special Booster Ver.2.0 [BT18-19]" }
+    "set": { "id": "bt18-19", "name": "Special Booster Ver.2.0 [BT18-19]" }
   },
   {
     "id": "BT18-027",
@@ -765,7 +765,7 @@
     "inheritedEffect": "-",
     "securityEffect": "-",
     "notes": "<a href=\"/products/pack/ver18-19/\">▹Special Booster Ver.2.0 [BT18-19]</a>",
-    "set": { "id": "bt18", "name": "Special Booster Ver.2.0 [BT18-19]" }
+    "set": { "id": "bt18-19", "name": "Special Booster Ver.2.0 [BT18-19]" }
   },
   {
     "id": "BT18-028",
@@ -789,7 +789,7 @@
     "inheritedEffect": "-",
     "securityEffect": "-",
     "notes": "<a href=\"/products/pack/ver18-19/\">▹Special Booster Ver.2.0 [BT18-19]</a>",
-    "set": { "id": "bt18", "name": "Special Booster Ver.2.0 [BT18-19]" }
+    "set": { "id": "bt18-19", "name": "Special Booster Ver.2.0 [BT18-19]" }
   },
   {
     "id": "BT18-029",
@@ -813,7 +813,7 @@
     "inheritedEffect": "-",
     "securityEffect": "-",
     "notes": "<a href=\"/products/pack/ver18-19/\">▹Special Booster Ver.2.0 [BT18-19]</a>",
-    "set": { "id": "bt18", "name": "Special Booster Ver.2.0 [BT18-19]" }
+    "set": { "id": "bt18-19", "name": "Special Booster Ver.2.0 [BT18-19]" }
   },
   {
     "id": "BT18-030",
@@ -837,7 +837,7 @@
     "inheritedEffect": "[All Turns] [Once Per Turn] When this yellow Digimon\n                            with the [Data] or [Witchelny] trait would leave the\n                            battle area by your opponent's effects, by trashing\n                            your top security card, it doesn't leave.",
     "securityEffect": "-",
     "notes": "<a href=\"/products/pack/ver18-19/\">▹Special Booster Ver.2.0 [BT18-19]</a>",
-    "set": { "id": "bt18", "name": "Special Booster Ver.2.0 [BT18-19]" }
+    "set": { "id": "bt18-19", "name": "Special Booster Ver.2.0 [BT18-19]" }
   },
   {
     "id": "BT18-031",
@@ -861,7 +861,7 @@
     "inheritedEffect": "-",
     "securityEffect": "-",
     "notes": "<a href=\"/products/pack/ver18-19/\">▹Special Booster Ver.2.0 [BT18-19]</a>",
-    "set": { "id": "bt18", "name": "Special Booster Ver.2.0 [BT18-19]" }
+    "set": { "id": "bt18-19", "name": "Special Booster Ver.2.0 [BT18-19]" }
   },
   {
     "id": "BT18-032",
@@ -885,7 +885,7 @@
     "inheritedEffect": "[When Attacking] [Once Per Turn] 1 of your\n                            opponent's Digimon gets -2000 DP for the turn.",
     "securityEffect": "-",
     "notes": "<a href=\"/products/pack/ver18-19/\">▹Special Booster Ver.2.0 [BT18-19]</a>",
-    "set": { "id": "bt18", "name": "Special Booster Ver.2.0 [BT18-19]" }
+    "set": { "id": "bt18-19", "name": "Special Booster Ver.2.0 [BT18-19]" }
   },
   {
     "id": "BT18-033",
@@ -909,7 +909,7 @@
     "inheritedEffect": "-",
     "securityEffect": "-",
     "notes": "<a href=\"/products/pack/ver18-19/\">▹Special Booster Ver.2.0 [BT18-19]</a>",
-    "set": { "id": "bt18", "name": "Special Booster Ver.2.0 [BT18-19]" }
+    "set": { "id": "bt18-19", "name": "Special Booster Ver.2.0 [BT18-19]" }
   },
   {
     "id": "BT18-033-p1",
@@ -933,7 +933,7 @@
     "inheritedEffect": "-",
     "securityEffect": "-",
     "notes": "<a href=\"/products/pack/ver18-19/\">▹Special Booster Ver.2.0 [BT18-19]</a>",
-    "set": { "id": "bt18", "name": "Special Booster Ver.2.0 [BT18-19]" }
+    "set": { "id": "bt18-19", "name": "Special Booster Ver.2.0 [BT18-19]" }
   },
   {
     "id": "BT18-034",
@@ -957,7 +957,7 @@
     "inheritedEffect": "-",
     "securityEffect": "-",
     "notes": "<a href=\"/products/pack/ver18-19/\">▹Special Booster Ver.2.0 [BT18-19]</a>",
-    "set": { "id": "bt18", "name": "Special Booster Ver.2.0 [BT18-19]" }
+    "set": { "id": "bt18-19", "name": "Special Booster Ver.2.0 [BT18-19]" }
   },
   {
     "id": "BT18-034-p1",
@@ -981,7 +981,7 @@
     "inheritedEffect": "-",
     "securityEffect": "-",
     "notes": "<a href=\"/products/pack/ver18-19/\">▹Special Booster Ver.2.0 [BT18-19]</a>",
-    "set": { "id": "bt18", "name": "Special Booster Ver.2.0 [BT18-19]" }
+    "set": { "id": "bt18-19", "name": "Special Booster Ver.2.0 [BT18-19]" }
   },
   {
     "id": "BT18-035",
@@ -1005,7 +1005,7 @@
     "inheritedEffect": "[When Attacking] [Once Per Turn] 1 of your\n                            opponent's Digimon gets -2000 DP for the turn.",
     "securityEffect": "-",
     "notes": "<a href=\"/products/pack/ver18-19/\">▹Special Booster Ver.2.0 [BT18-19]</a>",
-    "set": { "id": "bt18", "name": "Special Booster Ver.2.0 [BT18-19]" }
+    "set": { "id": "bt18-19", "name": "Special Booster Ver.2.0 [BT18-19]" }
   },
   {
     "id": "BT18-036",
@@ -1029,7 +1029,7 @@
     "inheritedEffect": "[All Turns] [Once Per Turn] When this yellow Digimon\n                            with the [Data] or [Witchelny] trait would leave the\n                            battle area by your opponent's effects, by trashing\n                            your top security card, it doesn't leave.",
     "securityEffect": "-",
     "notes": "<a href=\"/products/pack/ver18-19/\">▹Special Booster Ver.2.0 [BT18-19]</a>",
-    "set": { "id": "bt18", "name": "Special Booster Ver.2.0 [BT18-19]" }
+    "set": { "id": "bt18-19", "name": "Special Booster Ver.2.0 [BT18-19]" }
   },
   {
     "id": "BT18-037",
@@ -1053,7 +1053,7 @@
     "inheritedEffect": "[When Attacking] If you have 7 or fewer cards in\n                            your hand, ＜Draw 1＞.",
     "securityEffect": "-",
     "notes": "<a href=\"/products/pack/ver18-19/\">▹Special Booster Ver.2.0 [BT18-19]</a>",
-    "set": { "id": "bt18", "name": "Special Booster Ver.2.0 [BT18-19]" }
+    "set": { "id": "bt18-19", "name": "Special Booster Ver.2.0 [BT18-19]" }
   },
   {
     "id": "BT18-038",
@@ -1077,7 +1077,7 @@
     "inheritedEffect": "[On Deletion] ＜Recovery +1 ≪Deck≫＞ (Place the top\n                            card of your deck as your top security card.)",
     "securityEffect": "-",
     "notes": "<a href=\"/products/pack/ver18-19/\">▹Special Booster Ver.2.0 [BT18-19]</a>",
-    "set": { "id": "bt18", "name": "Special Booster Ver.2.0 [BT18-19]" }
+    "set": { "id": "bt18-19", "name": "Special Booster Ver.2.0 [BT18-19]" }
   },
   {
     "id": "BT18-039",
@@ -1101,7 +1101,7 @@
     "inheritedEffect": "[All Turns] [Once Per Turn] When your security stack\n                            is removed from, this Digimon may unsuspend.",
     "securityEffect": "-",
     "notes": "<a href=\"/products/pack/ver18-19/\">▹Special Booster Ver.2.0 [BT18-19]</a>",
-    "set": { "id": "bt18", "name": "Special Booster Ver.2.0 [BT18-19]" }
+    "set": { "id": "bt18-19", "name": "Special Booster Ver.2.0 [BT18-19]" }
   },
   {
     "id": "BT18-040",
@@ -1125,7 +1125,7 @@
     "inheritedEffect": "＜Overflow (-4)＞ (As this card moves from the field\n                            or under a card to an area other than those, lose 4\n                            memory.)",
     "securityEffect": "-",
     "notes": "<a href=\"/products/pack/ver18-19/\">▹Special Booster Ver.2.0 [BT18-19]</a>",
-    "set": { "id": "bt18", "name": "Special Booster Ver.2.0 [BT18-19]" }
+    "set": { "id": "bt18-19", "name": "Special Booster Ver.2.0 [BT18-19]" }
   },
   {
     "id": "BT18-040-p1",
@@ -1149,7 +1149,7 @@
     "inheritedEffect": "＜Overflow (-4)＞ (As this card moves from the field\n                            or under a card to an area other than those, lose 4\n                            memory.)",
     "securityEffect": "-",
     "notes": "<a href=\"/products/pack/ver18-19/\">▹Special Booster Ver.2.0 [BT18-19]</a>",
-    "set": { "id": "bt18", "name": "Special Booster Ver.2.0 [BT18-19]" }
+    "set": { "id": "bt18-19", "name": "Special Booster Ver.2.0 [BT18-19]" }
   },
   {
     "id": "BT18-040-p2",
@@ -1173,7 +1173,7 @@
     "inheritedEffect": "＜Overflow (-4)＞ (As this card moves from the field\n                            or under a card to an area other than those, lose 4\n                            memory.)",
     "securityEffect": "-",
     "notes": "<a href=\"/products/pack/ver18-19/\">▹Special Booster Ver.2.0 [BT18-19]</a>",
-    "set": { "id": "bt18", "name": "Special Booster Ver.2.0 [BT18-19]" }
+    "set": { "id": "bt18-19", "name": "Special Booster Ver.2.0 [BT18-19]" }
   },
   {
     "id": "BT18-041",
@@ -1197,7 +1197,7 @@
     "inheritedEffect": "-",
     "securityEffect": "-",
     "notes": "<a href=\"/products/pack/ver18-19/\">▹Special Booster Ver.2.0 [BT18-19]</a>",
-    "set": { "id": "bt18", "name": "Special Booster Ver.2.0 [BT18-19]" }
+    "set": { "id": "bt18-19", "name": "Special Booster Ver.2.0 [BT18-19]" }
   },
   {
     "id": "BT18-042",
@@ -1221,7 +1221,7 @@
     "inheritedEffect": "-",
     "securityEffect": "-",
     "notes": "<a href=\"/products/pack/ver18-19/\">▹Special Booster Ver.2.0 [BT18-19]</a>",
-    "set": { "id": "bt18", "name": "Special Booster Ver.2.0 [BT18-19]" }
+    "set": { "id": "bt18-19", "name": "Special Booster Ver.2.0 [BT18-19]" }
   },
   {
     "id": "BT18-042-p1",
@@ -1245,7 +1245,7 @@
     "inheritedEffect": "-",
     "securityEffect": "-",
     "notes": "<a href=\"/products/pack/ver18-19/\">▹Special Booster Ver.2.0 [BT18-19]</a>",
-    "set": { "id": "bt18", "name": "Special Booster Ver.2.0 [BT18-19]" }
+    "set": { "id": "bt18-19", "name": "Special Booster Ver.2.0 [BT18-19]" }
   },
   {
     "id": "BT18-043",
@@ -1269,7 +1269,7 @@
     "inheritedEffect": "＜Piercing＞ (When this Digimon attacks and deletes\n                            your opponent's Digimon in battle, it checks\n                            security before the attack ends.)",
     "securityEffect": "-",
     "notes": "<a href=\"/products/pack/ver18-19/\">▹Special Booster Ver.2.0 [BT18-19]</a>",
-    "set": { "id": "bt18", "name": "Special Booster Ver.2.0 [BT18-19]" }
+    "set": { "id": "bt18-19", "name": "Special Booster Ver.2.0 [BT18-19]" }
   },
   {
     "id": "BT18-044",
@@ -1293,7 +1293,7 @@
     "inheritedEffect": "[All Turns] This Digimon gets +1000 DP.",
     "securityEffect": "-",
     "notes": "<a href=\"/products/pack/ver18-19/\">▹Special Booster Ver.2.0 [BT18-19]</a>",
-    "set": { "id": "bt18", "name": "Special Booster Ver.2.0 [BT18-19]" }
+    "set": { "id": "bt18-19", "name": "Special Booster Ver.2.0 [BT18-19]" }
   },
   {
     "id": "BT18-045",
@@ -1317,7 +1317,7 @@
     "inheritedEffect": "-",
     "securityEffect": "-",
     "notes": "<a href=\"/products/pack/ver18-19/\">▹Special Booster Ver.2.0 [BT18-19]</a>",
-    "set": { "id": "bt18", "name": "Special Booster Ver.2.0 [BT18-19]" }
+    "set": { "id": "bt18-19", "name": "Special Booster Ver.2.0 [BT18-19]" }
   },
   {
     "id": "BT18-046",
@@ -1341,7 +1341,7 @@
     "inheritedEffect": "[All Turns] This Digimon gets +1000 DP.",
     "securityEffect": "-",
     "notes": "<a href=\"/products/pack/ver18-19/\">▹Special Booster Ver.2.0 [BT18-19]</a>",
-    "set": { "id": "bt18", "name": "Special Booster Ver.2.0 [BT18-19]" }
+    "set": { "id": "bt18-19", "name": "Special Booster Ver.2.0 [BT18-19]" }
   },
   {
     "id": "BT18-047",
@@ -1365,7 +1365,7 @@
     "inheritedEffect": "[When Attacking] [Once Per Turn] Suspend 1 of your\n                            opponent's Digimon.",
     "securityEffect": "-",
     "notes": "<a href=\"/products/pack/ver18-19/\">▹Special Booster Ver.2.0 [BT18-19]</a>",
-    "set": { "id": "bt18", "name": "Special Booster Ver.2.0 [BT18-19]" }
+    "set": { "id": "bt18-19", "name": "Special Booster Ver.2.0 [BT18-19]" }
   },
   {
     "id": "BT18-048",
@@ -1389,7 +1389,7 @@
     "inheritedEffect": "[All Turns] When this Digimon would leave the battle\n                            area other than by your effects, you may play 1\n                            Tamer card with inherited effects from this\n                            Digimon's digivolution cards without paying the\n                            cost.",
     "securityEffect": "-",
     "notes": "<a href=\"/products/pack/ver18-19/\">▹Special Booster Ver.2.0 [BT18-19]</a>",
-    "set": { "id": "bt18", "name": "Special Booster Ver.2.0 [BT18-19]" }
+    "set": { "id": "bt18-19", "name": "Special Booster Ver.2.0 [BT18-19]" }
   },
   {
     "id": "BT18-048-p1",
@@ -1413,7 +1413,7 @@
     "inheritedEffect": "[All Turns] When this Digimon would leave the battle\n                            area other than by your effects, you may play 1\n                            Tamer card with inherited effects from this\n                            Digimon's digivolution cards without paying the\n                            cost.",
     "securityEffect": "-",
     "notes": "<a href=\"/products/pack/ver18-19/\">▹Special Booster Ver.2.0 [BT18-19]</a>",
-    "set": { "id": "bt18", "name": "Special Booster Ver.2.0 [BT18-19]" }
+    "set": { "id": "bt18-19", "name": "Special Booster Ver.2.0 [BT18-19]" }
   },
   {
     "id": "BT18-049",
@@ -1437,7 +1437,7 @@
     "inheritedEffect": "＜Piercing＞ (When this Digimon attacks and deletes\n                            your opponent's Digimon in battle, it checks\n                            security before the attack ends.)",
     "securityEffect": "-",
     "notes": "<a href=\"/products/pack/ver18-19/\">▹Special Booster Ver.2.0 [BT18-19]</a>",
-    "set": { "id": "bt18", "name": "Special Booster Ver.2.0 [BT18-19]" }
+    "set": { "id": "bt18-19", "name": "Special Booster Ver.2.0 [BT18-19]" }
   },
   {
     "id": "BT18-049-p1",
@@ -1461,7 +1461,7 @@
     "inheritedEffect": "＜Piercing＞ (When this Digimon attacks and deletes\n                            your opponent's Digimon in battle, it checks\n                            security before the attack ends.)",
     "securityEffect": "-",
     "notes": "<a href=\"/products/pack/ver18-19/\">▹Special Booster Ver.2.0 [BT18-19]</a>",
-    "set": { "id": "bt18", "name": "Special Booster Ver.2.0 [BT18-19]" }
+    "set": { "id": "bt18-19", "name": "Special Booster Ver.2.0 [BT18-19]" }
   },
   {
     "id": "BT18-050",
@@ -1485,7 +1485,7 @@
     "inheritedEffect": "[When Attacking] [Once Per Turn] Suspend 1 of your\n                            opponent's Digimon.",
     "securityEffect": "-",
     "notes": "<a href=\"/products/pack/ver18-19/\">▹Special Booster Ver.2.0 [BT18-19]</a>",
-    "set": { "id": "bt18", "name": "Special Booster Ver.2.0 [BT18-19]" }
+    "set": { "id": "bt18-19", "name": "Special Booster Ver.2.0 [BT18-19]" }
   },
   {
     "id": "BT18-051",
@@ -1509,7 +1509,7 @@
     "inheritedEffect": "-",
     "securityEffect": "-",
     "notes": "<a href=\"/products/pack/ver18-19/\">▹Special Booster Ver.2.0 [BT18-19]</a>",
-    "set": { "id": "bt18", "name": "Special Booster Ver.2.0 [BT18-19]" }
+    "set": { "id": "bt18-19", "name": "Special Booster Ver.2.0 [BT18-19]" }
   },
   {
     "id": "BT18-052",
@@ -1533,7 +1533,7 @@
     "inheritedEffect": "[All Turns] [Once Per Turn] When this Digimon\n                            deletes your opponent's Digimon in battle, trash\n                            their top security card.",
     "securityEffect": "-",
     "notes": "<a href=\"/products/pack/ver18-19/\">▹Special Booster Ver.2.0 [BT18-19]</a>",
-    "set": { "id": "bt18", "name": "Special Booster Ver.2.0 [BT18-19]" }
+    "set": { "id": "bt18-19", "name": "Special Booster Ver.2.0 [BT18-19]" }
   },
   {
     "id": "BT18-053",
@@ -1557,7 +1557,7 @@
     "inheritedEffect": "[All Turns] This Digimon gets +2000 DP.",
     "securityEffect": "-",
     "notes": "<a href=\"/products/pack/ver18-19/\">▹Special Booster Ver.2.0 [BT18-19]</a>",
-    "set": { "id": "bt18", "name": "Special Booster Ver.2.0 [BT18-19]" }
+    "set": { "id": "bt18-19", "name": "Special Booster Ver.2.0 [BT18-19]" }
   },
   {
     "id": "BT18-054",
@@ -1581,7 +1581,7 @@
     "inheritedEffect": "-",
     "securityEffect": "-",
     "notes": "<a href=\"/products/pack/ver18-19/\">▹Special Booster Ver.2.0 [BT18-19]</a>",
-    "set": { "id": "bt18", "name": "Special Booster Ver.2.0 [BT18-19]" }
+    "set": { "id": "bt18-19", "name": "Special Booster Ver.2.0 [BT18-19]" }
   },
   {
     "id": "BT18-055",
@@ -1605,7 +1605,7 @@
     "inheritedEffect": "-",
     "securityEffect": "-",
     "notes": "<a href=\"/products/pack/ver18-19/\">▹Special Booster Ver.2.0 [BT18-19]</a>",
-    "set": { "id": "bt18", "name": "Special Booster Ver.2.0 [BT18-19]" }
+    "set": { "id": "bt18-19", "name": "Special Booster Ver.2.0 [BT18-19]" }
   },
   {
     "id": "BT18-056",
@@ -1629,7 +1629,7 @@
     "inheritedEffect": "-",
     "securityEffect": "-",
     "notes": "<a href=\"/products/pack/ver18-19/\">▹Special Booster Ver.2.0 [BT18-19]</a>",
-    "set": { "id": "bt18", "name": "Special Booster Ver.2.0 [BT18-19]" }
+    "set": { "id": "bt18-19", "name": "Special Booster Ver.2.0 [BT18-19]" }
   },
   {
     "id": "BT18-056-p1",
@@ -1653,7 +1653,7 @@
     "inheritedEffect": "-",
     "securityEffect": "-",
     "notes": "<a href=\"/products/pack/ver18-19/\">▹Special Booster Ver.2.0 [BT18-19]</a>",
-    "set": { "id": "bt18", "name": "Special Booster Ver.2.0 [BT18-19]" }
+    "set": { "id": "bt18-19", "name": "Special Booster Ver.2.0 [BT18-19]" }
   },
   {
     "id": "BT18-057",
@@ -1677,7 +1677,7 @@
     "inheritedEffect": "＜Blocker＞ (This Digimon can block in the blocker\n                            timing.)",
     "securityEffect": "-",
     "notes": "<a href=\"/products/pack/ver18-19/\">▹Special Booster Ver.2.0 [BT18-19]</a>",
-    "set": { "id": "bt18", "name": "Special Booster Ver.2.0 [BT18-19]" }
+    "set": { "id": "bt18-19", "name": "Special Booster Ver.2.0 [BT18-19]" }
   },
   {
     "id": "BT18-058",
@@ -1701,7 +1701,7 @@
     "inheritedEffect": "[All Turns] This Digimon gets +1000 DP.",
     "securityEffect": "-",
     "notes": "<a href=\"/products/pack/ver18-19/\">▹Special Booster Ver.2.0 [BT18-19]</a>",
-    "set": { "id": "bt18", "name": "Special Booster Ver.2.0 [BT18-19]" }
+    "set": { "id": "bt18-19", "name": "Special Booster Ver.2.0 [BT18-19]" }
   },
   {
     "id": "BT18-059",
@@ -1725,7 +1725,7 @@
     "inheritedEffect": "-",
     "securityEffect": "-",
     "notes": "<a href=\"/products/pack/ver18-19/\">▹Special Booster Ver.2.0 [BT18-19]</a>",
-    "set": { "id": "bt18", "name": "Special Booster Ver.2.0 [BT18-19]" }
+    "set": { "id": "bt18-19", "name": "Special Booster Ver.2.0 [BT18-19]" }
   },
   {
     "id": "BT18-060",
@@ -1749,7 +1749,7 @@
     "inheritedEffect": "[Your Turn] [Once Per Turn] When this Digimon would\n                            digivolve into a Digimon card with [Vemmon] in its\n                            text, reduce the digivolution cost by 1.",
     "securityEffect": "-",
     "notes": "<a href=\"/products/pack/ver18-19/\">▹Special Booster Ver.2.0 [BT18-19]</a>",
-    "set": { "id": "bt18", "name": "Special Booster Ver.2.0 [BT18-19]" }
+    "set": { "id": "bt18-19", "name": "Special Booster Ver.2.0 [BT18-19]" }
   },
   {
     "id": "BT18-061",
@@ -1773,7 +1773,7 @@
     "inheritedEffect": "[Your Turn] This Digimon with the [Machine] trait\n                            gains ＜Collision＞.",
     "securityEffect": "-",
     "notes": "<a href=\"/products/pack/ver18-19/\">▹Special Booster Ver.2.0 [BT18-19]</a>",
-    "set": { "id": "bt18", "name": "Special Booster Ver.2.0 [BT18-19]" }
+    "set": { "id": "bt18-19", "name": "Special Booster Ver.2.0 [BT18-19]" }
   },
   {
     "id": "BT18-062",
@@ -1797,7 +1797,7 @@
     "inheritedEffect": "[All Turns] This Digimon gets +1000 DP.",
     "securityEffect": "-",
     "notes": "<a href=\"/products/pack/ver18-19/\">▹Special Booster Ver.2.0 [BT18-19]</a>",
-    "set": { "id": "bt18", "name": "Special Booster Ver.2.0 [BT18-19]" }
+    "set": { "id": "bt18-19", "name": "Special Booster Ver.2.0 [BT18-19]" }
   },
   {
     "id": "BT18-063",
@@ -1821,7 +1821,7 @@
     "inheritedEffect": "[All Turns] When this Digimon would leave the battle\n                            area other than by your effects, you may play 1\n                            Tamer card with inherited effects from this\n                            Digimon's digivolution cards without paying the\n                            cost.",
     "securityEffect": "-",
     "notes": "<a href=\"/products/pack/ver18-19/\">▹Special Booster Ver.2.0 [BT18-19]</a>",
-    "set": { "id": "bt18", "name": "Special Booster Ver.2.0 [BT18-19]" }
+    "set": { "id": "bt18-19", "name": "Special Booster Ver.2.0 [BT18-19]" }
   },
   {
     "id": "BT18-063-p1",
@@ -1845,7 +1845,7 @@
     "inheritedEffect": "[All Turns] When this Digimon would leave the battle\n                            area other than by your effects, you may play 1\n                            Tamer card with inherited effects from this\n                            Digimon's digivolution cards without paying the\n                            cost.",
     "securityEffect": "-",
     "notes": "<a href=\"/products/pack/ver18-19/\">▹Special Booster Ver.2.0 [BT18-19]</a>",
-    "set": { "id": "bt18", "name": "Special Booster Ver.2.0 [BT18-19]" }
+    "set": { "id": "bt18-19", "name": "Special Booster Ver.2.0 [BT18-19]" }
   },
   {
     "id": "BT18-064",
@@ -1869,7 +1869,7 @@
     "inheritedEffect": "[Opponent's Turn] This Digimon gets +2000 DP.",
     "securityEffect": "-",
     "notes": "<a href=\"/products/pack/ver18-19/\">▹Special Booster Ver.2.0 [BT18-19]</a>",
-    "set": { "id": "bt18", "name": "Special Booster Ver.2.0 [BT18-19]" }
+    "set": { "id": "bt18-19", "name": "Special Booster Ver.2.0 [BT18-19]" }
   },
   {
     "id": "BT18-065",
@@ -1893,7 +1893,7 @@
     "inheritedEffect": "[All Turns] [Once Per Turn] When any [Vemmon] return\n                            to the bottom of the deck from this Digimon's\n                            digivolution cards, this Digimon unsuspends and\n                            gains ＜Blocker＞ until the end of your opponent's\n                            turn.",
     "securityEffect": "-",
     "notes": "<a href=\"/products/pack/ver18-19/\">▹Special Booster Ver.2.0 [BT18-19]</a>",
-    "set": { "id": "bt18", "name": "Special Booster Ver.2.0 [BT18-19]" }
+    "set": { "id": "bt18-19", "name": "Special Booster Ver.2.0 [BT18-19]" }
   },
   {
     "id": "BT18-066",
@@ -1917,7 +1917,7 @@
     "inheritedEffect": "[Opponent's Turn] This Digimon gets +2000 DP.",
     "securityEffect": "-",
     "notes": "<a href=\"/products/pack/ver18-19/\">▹Special Booster Ver.2.0 [BT18-19]</a>",
-    "set": { "id": "bt18", "name": "Special Booster Ver.2.0 [BT18-19]" }
+    "set": { "id": "bt18-19", "name": "Special Booster Ver.2.0 [BT18-19]" }
   },
   {
     "id": "BT18-067",
@@ -1941,7 +1941,7 @@
     "inheritedEffect": "＜Blocker＞ (This Digimon can block in the blocker\n                            timing.)",
     "securityEffect": "-",
     "notes": "<a href=\"/products/pack/ver18-19/\">▹Special Booster Ver.2.0 [BT18-19]</a>",
-    "set": { "id": "bt18", "name": "Special Booster Ver.2.0 [BT18-19]" }
+    "set": { "id": "bt18-19", "name": "Special Booster Ver.2.0 [BT18-19]" }
   },
   {
     "id": "BT18-067-p1",
@@ -1965,7 +1965,7 @@
     "inheritedEffect": "＜Blocker＞ (This Digimon can block in the blocker\n                            timing.)",
     "securityEffect": "-",
     "notes": "<a href=\"/products/pack/ver18-19/\">▹Special Booster Ver.2.0 [BT18-19]</a>",
-    "set": { "id": "bt18", "name": "Special Booster Ver.2.0 [BT18-19]" }
+    "set": { "id": "bt18-19", "name": "Special Booster Ver.2.0 [BT18-19]" }
   },
   {
     "id": "BT18-068",
@@ -1989,7 +1989,7 @@
     "inheritedEffect": "-",
     "securityEffect": "-",
     "notes": "<a href=\"/products/pack/ver18-19/\">▹Special Booster Ver.2.0 [BT18-19]</a>",
-    "set": { "id": "bt18", "name": "Special Booster Ver.2.0 [BT18-19]" }
+    "set": { "id": "bt18-19", "name": "Special Booster Ver.2.0 [BT18-19]" }
   },
   {
     "id": "BT18-069",
@@ -2013,7 +2013,7 @@
     "inheritedEffect": "[All Turns] All your Digimon with [Knightmon] in\n                            their texts get +2000 DP.",
     "securityEffect": "-",
     "notes": "<a href=\"/products/pack/ver18-19/\">▹Special Booster Ver.2.0 [BT18-19]</a>",
-    "set": { "id": "bt18", "name": "Special Booster Ver.2.0 [BT18-19]" }
+    "set": { "id": "bt18-19", "name": "Special Booster Ver.2.0 [BT18-19]" }
   },
   {
     "id": "BT18-070",
@@ -2037,7 +2037,7 @@
     "inheritedEffect": "[When Attacking] [Once Per Turn] 1 of your\n                            opponent's Digimon gets -4000 DP for the turn.",
     "securityEffect": "-",
     "notes": "<a href=\"/products/pack/ver18-19/\">▹Special Booster Ver.2.0 [BT18-19]</a>",
-    "set": { "id": "bt18", "name": "Special Booster Ver.2.0 [BT18-19]" }
+    "set": { "id": "bt18-19", "name": "Special Booster Ver.2.0 [BT18-19]" }
   },
   {
     "id": "BT18-071",
@@ -2061,7 +2061,7 @@
     "inheritedEffect": "＜Overflow (-4)＞ (As this card moves from the field\n                            or under a card to an area other than those, lose 4\n                            memory.)",
     "securityEffect": "-",
     "notes": "<a href=\"/products/pack/ver18-19/\">▹Special Booster Ver.2.0 [BT18-19]</a>",
-    "set": { "id": "bt18", "name": "Special Booster Ver.2.0 [BT18-19]" }
+    "set": { "id": "bt18-19", "name": "Special Booster Ver.2.0 [BT18-19]" }
   },
   {
     "id": "BT18-071-p1",
@@ -2085,7 +2085,7 @@
     "inheritedEffect": "＜Overflow (-4)＞ (As this card moves from the field\n                            or under a card to an area other than those, lose 4\n                            memory.)",
     "securityEffect": "-",
     "notes": "<a href=\"/products/pack/ver18-19/\">▹Special Booster Ver.2.0 [BT18-19]</a>",
-    "set": { "id": "bt18", "name": "Special Booster Ver.2.0 [BT18-19]" }
+    "set": { "id": "bt18-19", "name": "Special Booster Ver.2.0 [BT18-19]" }
   },
   {
     "id": "BT18-071-p2",
@@ -2109,7 +2109,7 @@
     "inheritedEffect": "＜Overflow (-4)＞ (As this card moves from the field\n                            or under a card to an area other than those, lose 4\n                            memory.)",
     "securityEffect": "-",
     "notes": "<a href=\"/products/pack/ver18-19/\">▹Special Booster Ver.2.0 [BT18-19]</a>",
-    "set": { "id": "bt18", "name": "Special Booster Ver.2.0 [BT18-19]" }
+    "set": { "id": "bt18-19", "name": "Special Booster Ver.2.0 [BT18-19]" }
   },
   {
     "id": "BT18-072",
@@ -2133,7 +2133,7 @@
     "inheritedEffect": "-",
     "securityEffect": "-",
     "notes": "<a href=\"/products/pack/ver18-19/\">▹Special Booster Ver.2.0 [BT18-19]</a>",
-    "set": { "id": "bt18", "name": "Special Booster Ver.2.0 [BT18-19]" }
+    "set": { "id": "bt18-19", "name": "Special Booster Ver.2.0 [BT18-19]" }
   },
   {
     "id": "BT18-073",
@@ -2157,7 +2157,7 @@
     "inheritedEffect": "[Opponent's Turn] [Once Per Turn] When any of your\n                            opponent's Digimon attack, you may change the attack\n                            target to 1 of your Digimon with the [Composite] or\n                            [Wicked God] trait.",
     "securityEffect": "-",
     "notes": "<a href=\"/products/pack/ver18-19/\">▹Special Booster Ver.2.0 [BT18-19]</a>",
-    "set": { "id": "bt18", "name": "Special Booster Ver.2.0 [BT18-19]" }
+    "set": { "id": "bt18-19", "name": "Special Booster Ver.2.0 [BT18-19]" }
   },
   {
     "id": "BT18-074",
@@ -2181,7 +2181,7 @@
     "inheritedEffect": "-",
     "securityEffect": "-",
     "notes": "<a href=\"/products/pack/ver18-19/\">▹Special Booster Ver.2.0 [BT18-19]</a>",
-    "set": { "id": "bt18", "name": "Special Booster Ver.2.0 [BT18-19]" }
+    "set": { "id": "bt18-19", "name": "Special Booster Ver.2.0 [BT18-19]" }
   },
   {
     "id": "BT18-075",
@@ -2205,7 +2205,7 @@
     "inheritedEffect": "＜Retaliation＞ (When only this Digimon is deleted\n                            in battle, delete the Digimon it battled.)",
     "securityEffect": "-",
     "notes": "<a href=\"/products/pack/ver18-19/\">▹Special Booster Ver.2.0 [BT18-19]</a>",
-    "set": { "id": "bt18", "name": "Special Booster Ver.2.0 [BT18-19]" }
+    "set": { "id": "bt18-19", "name": "Special Booster Ver.2.0 [BT18-19]" }
   },
   {
     "id": "BT18-076",
@@ -2229,7 +2229,7 @@
     "inheritedEffect": "[All Turns] When this Digimon would leave the battle\n                            area other than by your effects, you may play 1\n                            Tamer card with inherited effects from this\n                            Digimon's digivolution cards without paying the\n                            cost.",
     "securityEffect": "-",
     "notes": "<a href=\"/products/pack/ver18-19/\">▹Special Booster Ver.2.0 [BT18-19]</a>",
-    "set": { "id": "bt18", "name": "Special Booster Ver.2.0 [BT18-19]" }
+    "set": { "id": "bt18-19", "name": "Special Booster Ver.2.0 [BT18-19]" }
   },
   {
     "id": "BT18-077",
@@ -2253,7 +2253,7 @@
     "inheritedEffect": "＜Retaliation＞ (When only this Digimon is deleted\n                            in battle, delete the Digimon it battled.)",
     "securityEffect": "-",
     "notes": "<a href=\"/products/pack/ver18-19/\">▹Special Booster Ver.2.0 [BT18-19]</a>",
-    "set": { "id": "bt18", "name": "Special Booster Ver.2.0 [BT18-19]" }
+    "set": { "id": "bt18-19", "name": "Special Booster Ver.2.0 [BT18-19]" }
   },
   {
     "id": "BT18-078",
@@ -2277,7 +2277,7 @@
     "inheritedEffect": "[On Deletion] You may play 1 Tamer card with a play\n                            cost of 4 or less from your trash without paying the\n                            cost.",
     "securityEffect": "-",
     "notes": "<a href=\"/products/pack/ver18-19/\">▹Special Booster Ver.2.0 [BT18-19]</a>",
-    "set": { "id": "bt18", "name": "Special Booster Ver.2.0 [BT18-19]" }
+    "set": { "id": "bt18-19", "name": "Special Booster Ver.2.0 [BT18-19]" }
   },
   {
     "id": "BT18-078-p1",
@@ -2301,7 +2301,7 @@
     "inheritedEffect": "[On Deletion] You may play 1 Tamer card with a play\n                            cost of 4 or less from your trash without paying the\n                            cost.",
     "securityEffect": "-",
     "notes": "<a href=\"/products/pack/ver18-19/\">▹Special Booster Ver.2.0 [BT18-19]</a>",
-    "set": { "id": "bt18", "name": "Special Booster Ver.2.0 [BT18-19]" }
+    "set": { "id": "bt18-19", "name": "Special Booster Ver.2.0 [BT18-19]" }
   },
   {
     "id": "BT18-079",
@@ -2325,7 +2325,7 @@
     "inheritedEffect": "＜Retaliation＞ (When only this Digimon is deleted\n                            in battle, delete the Digimon it battled.)",
     "securityEffect": "-",
     "notes": "<a href=\"/products/pack/ver18-19/\">▹Special Booster Ver.2.0 [BT18-19]</a>",
-    "set": { "id": "bt18", "name": "Special Booster Ver.2.0 [BT18-19]" }
+    "set": { "id": "bt18-19", "name": "Special Booster Ver.2.0 [BT18-19]" }
   },
   {
     "id": "BT18-079-p1",
@@ -2349,7 +2349,7 @@
     "inheritedEffect": "＜Retaliation＞ (When only this Digimon is deleted\n                            in battle, delete the Digimon it battled.)",
     "securityEffect": "-",
     "notes": "<a href=\"/products/pack/ver18-19/\">▹Special Booster Ver.2.0 [BT18-19]</a>",
-    "set": { "id": "bt18", "name": "Special Booster Ver.2.0 [BT18-19]" }
+    "set": { "id": "bt18-19", "name": "Special Booster Ver.2.0 [BT18-19]" }
   },
   {
     "id": "BT18-080",
@@ -2373,7 +2373,7 @@
     "inheritedEffect": "＜Retaliation＞ (When only this Digimon is deleted\n                            in battle, delete the Digimon it battled.)",
     "securityEffect": "-",
     "notes": "<a href=\"/products/pack/ver18-19/\">▹Special Booster Ver.2.0 [BT18-19]</a>",
-    "set": { "id": "bt18", "name": "Special Booster Ver.2.0 [BT18-19]" }
+    "set": { "id": "bt18-19", "name": "Special Booster Ver.2.0 [BT18-19]" }
   },
   {
     "id": "BT18-081",
@@ -2397,7 +2397,7 @@
     "inheritedEffect": "[When Attacking] [Once Per Turn] 1 of your\n                            opponent's Digimon gets -4000 DP for the turn.",
     "securityEffect": "-",
     "notes": "<a href=\"/products/pack/ver18-19/\">▹Special Booster Ver.2.0 [BT18-19]</a>",
-    "set": { "id": "bt18", "name": "Special Booster Ver.2.0 [BT18-19]" }
+    "set": { "id": "bt18-19", "name": "Special Booster Ver.2.0 [BT18-19]" }
   },
   {
     "id": "BT18-082",
@@ -2421,7 +2421,7 @@
     "inheritedEffect": "-",
     "securityEffect": "-",
     "notes": "<a href=\"/products/pack/ver18-19/\">▹Special Booster Ver.2.0 [BT18-19]</a>",
-    "set": { "id": "bt18", "name": "Special Booster Ver.2.0 [BT18-19]" }
+    "set": { "id": "bt18-19", "name": "Special Booster Ver.2.0 [BT18-19]" }
   },
   {
     "id": "BT18-082-p1",
@@ -2445,7 +2445,7 @@
     "inheritedEffect": "-",
     "securityEffect": "-",
     "notes": "<a href=\"/products/pack/ver18-19/\">▹Special Booster Ver.2.0 [BT18-19]</a>",
-    "set": { "id": "bt18", "name": "Special Booster Ver.2.0 [BT18-19]" }
+    "set": { "id": "bt18-19", "name": "Special Booster Ver.2.0 [BT18-19]" }
   },
   {
     "id": "BT18-083",
@@ -2469,7 +2469,7 @@
     "inheritedEffect": "＜Overflow (-4)＞ (As this card moves from the field\n                            or under a card to an area other than those, lose 4\n                            memory.)",
     "securityEffect": "-",
     "notes": "<a href=\"/products/pack/ver18-19/\">▹Special Booster Ver.2.0 [BT18-19]</a>",
-    "set": { "id": "bt18", "name": "Special Booster Ver.2.0 [BT18-19]" }
+    "set": { "id": "bt18-19", "name": "Special Booster Ver.2.0 [BT18-19]" }
   },
   {
     "id": "BT18-083-p1",
@@ -2493,7 +2493,7 @@
     "inheritedEffect": "＜Overflow (-4)＞ (As this card moves from the field\n                            or under a card to an area other than those, lose 4\n                            memory.)",
     "securityEffect": "-",
     "notes": "<a href=\"/products/pack/ver18-19/\">▹Special Booster Ver.2.0 [BT18-19]</a>",
-    "set": { "id": "bt18", "name": "Special Booster Ver.2.0 [BT18-19]" }
+    "set": { "id": "bt18-19", "name": "Special Booster Ver.2.0 [BT18-19]" }
   },
   {
     "id": "BT18-083-p2",
@@ -2517,7 +2517,7 @@
     "inheritedEffect": "＜Overflow (-4)＞ (As this card moves from the field\n                            or under a card to an area other than those, lose 4\n                            memory.)",
     "securityEffect": "-",
     "notes": "<a href=\"/products/pack/ver18-19/\">▹Special Booster Ver.2.0 [BT18-19]</a>",
-    "set": { "id": "bt18", "name": "Special Booster Ver.2.0 [BT18-19]" }
+    "set": { "id": "bt18-19", "name": "Special Booster Ver.2.0 [BT18-19]" }
   },
   {
     "id": "BT18-084",
@@ -2541,7 +2541,7 @@
     "inheritedEffect": "-",
     "securityEffect": "-",
     "notes": "<a href=\"/products/pack/ver18-19/\">▹Special Booster Ver.2.0 [BT18-19]</a>",
-    "set": { "id": "bt18", "name": "Special Booster Ver.2.0 [BT18-19]" }
+    "set": { "id": "bt18-19", "name": "Special Booster Ver.2.0 [BT18-19]" }
   },
   {
     "id": "BT18-085",
@@ -2565,7 +2565,7 @@
     "inheritedEffect": "-",
     "securityEffect": "-",
     "notes": "<a href=\"/products/pack/ver18-19/\">▹Special Booster Ver.2.0 [BT18-19]</a>",
-    "set": { "id": "bt18", "name": "Special Booster Ver.2.0 [BT18-19]" }
+    "set": { "id": "bt18-19", "name": "Special Booster Ver.2.0 [BT18-19]" }
   },
   {
     "id": "BT18-086",
@@ -2589,7 +2589,7 @@
     "inheritedEffect": "-",
     "securityEffect": "-",
     "notes": "<a href=\"/products/pack/ver18-19/\">▹Special Booster Ver.2.0 [BT18-19]</a>",
-    "set": { "id": "bt18", "name": "Special Booster Ver.2.0 [BT18-19]" }
+    "set": { "id": "bt18-19", "name": "Special Booster Ver.2.0 [BT18-19]" }
   },
   {
     "id": "BT18-087",
@@ -2613,7 +2613,7 @@
     "inheritedEffect": "-",
     "securityEffect": "[Security] Play this card without paying the cost.",
     "notes": "<a href=\"/products/pack/ver18-19/\">▹Special Booster Ver.2.0 [BT18-19]</a>",
-    "set": { "id": "bt18", "name": "Special Booster Ver.2.0 [BT18-19]" }
+    "set": { "id": "bt18-19", "name": "Special Booster Ver.2.0 [BT18-19]" }
   },
   {
     "id": "BT18-088",
@@ -2637,7 +2637,7 @@
     "inheritedEffect": "[End of Your Turn] [Once Per Turn] This Digimon with\n                            the [Hybrid] or [Ten Warriors] trait may attack a\n                            player.",
     "securityEffect": "-",
     "notes": "<a href=\"/products/pack/ver18-19/\">▹Special Booster Ver.2.0 [BT18-19]</a>",
-    "set": { "id": "bt18", "name": "Special Booster Ver.2.0 [BT18-19]" }
+    "set": { "id": "bt18-19", "name": "Special Booster Ver.2.0 [BT18-19]" }
   },
   {
     "id": "BT18-088-p1",
@@ -2661,7 +2661,7 @@
     "inheritedEffect": "[End of Your Turn] [Once Per Turn] This Digimon with\n                            the [Hybrid] or [Ten Warriors] trait may attack a\n                            player.",
     "securityEffect": "-",
     "notes": "<a href=\"/products/pack/ver18-19/\">▹Special Booster Ver.2.0 [BT18-19]</a>",
-    "set": { "id": "bt18", "name": "Special Booster Ver.2.0 [BT18-19]" }
+    "set": { "id": "bt18-19", "name": "Special Booster Ver.2.0 [BT18-19]" }
   },
   {
     "id": "BT18-089",
@@ -2685,7 +2685,7 @@
     "inheritedEffect": "[When Attacking] [Once Per Turn] Trash the bottom\n                            digivolution card of 1 of your opponent's Digimon.\n                            Then, if your opponent has no Digimon with\n                            digivolution cards, ＜Draw 1＞.",
     "securityEffect": "-",
     "notes": "<a href=\"/products/pack/ver18-19/\">▹Special Booster Ver.2.0 [BT18-19]</a>",
-    "set": { "id": "bt18", "name": "Special Booster Ver.2.0 [BT18-19]" }
+    "set": { "id": "bt18-19", "name": "Special Booster Ver.2.0 [BT18-19]" }
   },
   {
     "id": "BT18-089-p1",
@@ -2709,7 +2709,7 @@
     "inheritedEffect": "[When Attacking] [Once Per Turn] Trash the bottom\n                            digivolution card of 1 of your opponent's Digimon.\n                            Then, if your opponent has no Digimon with\n                            digivolution cards, ＜Draw 1＞.",
     "securityEffect": "-",
     "notes": "<a href=\"/products/pack/ver18-19/\">▹Special Booster Ver.2.0 [BT18-19]</a>",
-    "set": { "id": "bt18", "name": "Special Booster Ver.2.0 [BT18-19]" }
+    "set": { "id": "bt18-19", "name": "Special Booster Ver.2.0 [BT18-19]" }
   },
   {
     "id": "BT18-090",
@@ -2733,7 +2733,7 @@
     "inheritedEffect": "[Your Turn] [Once Per Turn] When this Digimon\n                            deletes your opponent's Digimon in battle, you may\n                            play 1 Tamer card with inherited effects from your\n                            hand without paying the cost.",
     "securityEffect": "-",
     "notes": "<a href=\"/products/pack/ver18-19/\">▹Special Booster Ver.2.0 [BT18-19]</a>",
-    "set": { "id": "bt18", "name": "Special Booster Ver.2.0 [BT18-19]" }
+    "set": { "id": "bt18-19", "name": "Special Booster Ver.2.0 [BT18-19]" }
   },
   {
     "id": "BT18-090-p1",
@@ -2757,7 +2757,7 @@
     "inheritedEffect": "[Your Turn] [Once Per Turn] When this Digimon\n                            deletes your opponent's Digimon in battle, you may\n                            play 1 Tamer card with inherited effects from your\n                            hand without paying the cost.",
     "securityEffect": "-",
     "notes": "<a href=\"/products/pack/ver18-19/\">▹Special Booster Ver.2.0 [BT18-19]</a>",
-    "set": { "id": "bt18", "name": "Special Booster Ver.2.0 [BT18-19]" }
+    "set": { "id": "bt18-19", "name": "Special Booster Ver.2.0 [BT18-19]" }
   },
   {
     "id": "BT18-091",
@@ -2781,7 +2781,7 @@
     "inheritedEffect": "[All Turns] [Once Per Turn] When attack targets\n                            change, you may play 1 Tamer card with inherited\n                            effects from your hand without paying the cost.",
     "securityEffect": "-",
     "notes": "<a href=\"/products/pack/ver18-19/\">▹Special Booster Ver.2.0 [BT18-19]</a>",
-    "set": { "id": "bt18", "name": "Special Booster Ver.2.0 [BT18-19]" }
+    "set": { "id": "bt18-19", "name": "Special Booster Ver.2.0 [BT18-19]" }
   },
   {
     "id": "BT18-091-p1",
@@ -2805,7 +2805,7 @@
     "inheritedEffect": "[All Turns] [Once Per Turn] When attack targets\n                            change, you may play 1 Tamer card with inherited\n                            effects from your hand without paying the cost.",
     "securityEffect": "-",
     "notes": "<a href=\"/products/pack/ver18-19/\">▹Special Booster Ver.2.0 [BT18-19]</a>",
-    "set": { "id": "bt18", "name": "Special Booster Ver.2.0 [BT18-19]" }
+    "set": { "id": "bt18-19", "name": "Special Booster Ver.2.0 [BT18-19]" }
   },
   {
     "id": "BT18-092",
@@ -2829,7 +2829,7 @@
     "inheritedEffect": "-",
     "securityEffect": "[Security] Play this card without paying the cost.",
     "notes": "<a href=\"/products/pack/ver18-19/\">▹Special Booster Ver.2.0 [BT18-19]</a>",
-    "set": { "id": "bt18", "name": "Special Booster Ver.2.0 [BT18-19]" }
+    "set": { "id": "bt18-19", "name": "Special Booster Ver.2.0 [BT18-19]" }
   },
   {
     "id": "BT18-093",
@@ -2853,7 +2853,7 @@
     "inheritedEffect": "-",
     "securityEffect": "[Security] Play this card without paying the cost.",
     "notes": "<a href=\"/products/pack/ver18-19/\">▹Special Booster Ver.2.0 [BT18-19]</a>",
-    "set": { "id": "bt18", "name": "Special Booster Ver.2.0 [BT18-19]" }
+    "set": { "id": "bt18-19", "name": "Special Booster Ver.2.0 [BT18-19]" }
   },
   {
     "id": "BT18-093-p1",
@@ -2877,7 +2877,7 @@
     "inheritedEffect": "-",
     "securityEffect": "[Security] Play this card without paying the cost.",
     "notes": "<a href=\"/products/pack/ver18-19/\">▹Special Booster Ver.2.0 [BT18-19]</a>",
-    "set": { "id": "bt18", "name": "Special Booster Ver.2.0 [BT18-19]" }
+    "set": { "id": "bt18-19", "name": "Special Booster Ver.2.0 [BT18-19]" }
   },
   {
     "id": "BT18-094",
@@ -2901,7 +2901,7 @@
     "inheritedEffect": "[When Attacking] [Once Per Turn] You may return 1\n                            card with the [Hybrid] or [Ten Warriors] trait from\n                            your trash to the hand.",
     "securityEffect": "-",
     "notes": "<a href=\"/products/pack/ver18-19/\">▹Special Booster Ver.2.0 [BT18-19]</a>",
-    "set": { "id": "bt18", "name": "Special Booster Ver.2.0 [BT18-19]" }
+    "set": { "id": "bt18-19", "name": "Special Booster Ver.2.0 [BT18-19]" }
   },
   {
     "id": "BT18-094-p1",
@@ -2925,7 +2925,7 @@
     "inheritedEffect": "[When Attacking] [Once Per Turn] You may return 1\n                            card with the [Hybrid] or [Ten Warriors] trait from\n                            your trash to the hand.",
     "securityEffect": "-",
     "notes": "<a href=\"/products/pack/ver18-19/\">▹Special Booster Ver.2.0 [BT18-19]</a>",
-    "set": { "id": "bt18", "name": "Special Booster Ver.2.0 [BT18-19]" }
+    "set": { "id": "bt18-19", "name": "Special Booster Ver.2.0 [BT18-19]" }
   },
   {
     "id": "BT18-095",
@@ -2949,7 +2949,7 @@
     "inheritedEffect": "-",
     "securityEffect": "[Security] You may play 1 Tamer card with inherited\n                            effects from your hand or trash without paying the\n                            cost. Then, add this card to the hand.",
     "notes": "<a href=\"/products/pack/ver18-19/\">▹Special Booster Ver.2.0 [BT18-19]</a>",
-    "set": { "id": "bt18", "name": "Special Booster Ver.2.0 [BT18-19]" }
+    "set": { "id": "bt18-19", "name": "Special Booster Ver.2.0 [BT18-19]" }
   },
   {
     "id": "BT18-096",
@@ -2973,7 +2973,7 @@
     "inheritedEffect": "-",
     "securityEffect": "[Security] You may play 1 Tamer card with inherited\n                            effects from your hand or trash without paying the\n                            cost. Then, add this card to the hand.",
     "notes": "<a href=\"/products/pack/ver18-19/\">▹Special Booster Ver.2.0 [BT18-19]</a>",
-    "set": { "id": "bt18", "name": "Special Booster Ver.2.0 [BT18-19]" }
+    "set": { "id": "bt18-19", "name": "Special Booster Ver.2.0 [BT18-19]" }
   },
   {
     "id": "BT18-097",
@@ -2997,7 +2997,7 @@
     "inheritedEffect": "-",
     "securityEffect": "[Security] You may play 1 Tamer card with inherited\n                            effects from your hand or trash without paying the\n                            cost. Then, add this card to the hand.",
     "notes": "<a href=\"/products/pack/ver18-19/\">▹Special Booster Ver.2.0 [BT18-19]</a>",
-    "set": { "id": "bt18", "name": "Special Booster Ver.2.0 [BT18-19]" }
+    "set": { "id": "bt18-19", "name": "Special Booster Ver.2.0 [BT18-19]" }
   },
   {
     "id": "BT18-098",
@@ -3021,7 +3021,7 @@
     "inheritedEffect": "-",
     "securityEffect": "[Security] Delete 1 of your opponent's Digimon with\n                            6000 DP or less. Then, if you have 0 security cards,\n                            ＜Recovery +1 ≪Deck≫＞.",
     "notes": "<a href=\"/products/pack/ver18-19/\">▹Special Booster Ver.2.0 [BT18-19]</a>",
-    "set": { "id": "bt18", "name": "Special Booster Ver.2.0 [BT18-19]" }
+    "set": { "id": "bt18-19", "name": "Special Booster Ver.2.0 [BT18-19]" }
   },
   {
     "id": "BT18-099",
@@ -3045,7 +3045,7 @@
     "inheritedEffect": "-",
     "securityEffect": "[Security] You may play 1 level 5 or lower Digimon\n                            card with [Knightmon] in its text from your trash\n                            without paying the cost. Then, place this card in\n                            the battle area.",
     "notes": "<a href=\"/products/pack/ver18-19/\">▹Special Booster Ver.2.0 [BT18-19]</a>",
-    "set": { "id": "bt18", "name": "Special Booster Ver.2.0 [BT18-19]" }
+    "set": { "id": "bt18-19", "name": "Special Booster Ver.2.0 [BT18-19]" }
   },
   {
     "id": "BT18-100",
@@ -3069,7 +3069,7 @@
     "inheritedEffect": "-",
     "securityEffect": "[Security] Place this card in the battle area.",
     "notes": "<a href=\"/products/pack/ver18-19/\">▹Special Booster Ver.2.0 [BT18-19]</a>",
-    "set": { "id": "bt18", "name": "Special Booster Ver.2.0 [BT18-19]" }
+    "set": { "id": "bt18-19", "name": "Special Booster Ver.2.0 [BT18-19]" }
   },
   {
     "id": "BT18-101",
@@ -3093,7 +3093,7 @@
     "inheritedEffect": "-",
     "securityEffect": "-",
     "notes": "<a href=\"/products/pack/ver18-19/\">▹Special Booster Ver.2.0 [BT18-19]</a>",
-    "set": { "id": "bt18", "name": "Special Booster Ver.2.0 [BT18-19]" }
+    "set": { "id": "bt18-19", "name": "Special Booster Ver.2.0 [BT18-19]" }
   },
   {
     "id": "BT18-101-p1",
@@ -3117,7 +3117,7 @@
     "inheritedEffect": "-",
     "securityEffect": "-",
     "notes": "<a href=\"/products/pack/ver18-19/\">▹Special Booster Ver.2.0 [BT18-19]</a>",
-    "set": { "id": "bt18", "name": "Special Booster Ver.2.0 [BT18-19]" }
+    "set": { "id": "bt18-19", "name": "Special Booster Ver.2.0 [BT18-19]" }
   },
   {
     "id": "BT18-101-p2",
@@ -3141,7 +3141,7 @@
     "inheritedEffect": "-",
     "securityEffect": "-",
     "notes": "<a href=\"/products/pack/ver18-19/\">▹Special Booster Ver.2.0 [BT18-19]</a>",
-    "set": { "id": "bt18", "name": "Special Booster Ver.2.0 [BT18-19]" }
+    "set": { "id": "bt18-19", "name": "Special Booster Ver.2.0 [BT18-19]" }
   },
   {
     "id": "BT18-102",
@@ -3165,7 +3165,7 @@
     "inheritedEffect": "＜Overflow (-5)＞ (As this card moves from the field\n                            or under a card to an area other than those, lose 5\n                            memory.)",
     "securityEffect": "-",
     "notes": "<a href=\"/products/pack/ver18-19/\">▹Special Booster Ver.2.0 [BT18-19]</a>",
-    "set": { "id": "bt18", "name": "Special Booster Ver.2.0 [BT18-19]" }
+    "set": { "id": "bt18-19", "name": "Special Booster Ver.2.0 [BT18-19]" }
   },
   {
     "id": "BT18-102-p1",
@@ -3189,7 +3189,7 @@
     "inheritedEffect": "＜Overflow (-5)＞ (As this card moves from the field\n                            or under a card to an area other than those, lose 5\n                            memory.)",
     "securityEffect": "-",
     "notes": "<a href=\"/products/pack/ver18-19/\">▹Special Booster Ver.2.0 [BT18-19]</a>",
-    "set": { "id": "bt18", "name": "Special Booster Ver.2.0 [BT18-19]" }
+    "set": { "id": "bt18-19", "name": "Special Booster Ver.2.0 [BT18-19]" }
   },
   {
     "id": "BT18-102-p2",
@@ -3213,7 +3213,7 @@
     "inheritedEffect": "＜Overflow (-5)＞ (As this card moves from the field\n                            or under a card to an area other than those, lose 5\n                            memory.)",
     "securityEffect": "-",
     "notes": "<a href=\"/products/pack/ver18-19/\">▹Special Booster Ver.2.0 [BT18-19]</a>",
-    "set": { "id": "bt18", "name": "Special Booster Ver.2.0 [BT18-19]" }
+    "set": { "id": "bt18-19", "name": "Special Booster Ver.2.0 [BT18-19]" }
   },
   {
     "id": "BT19-002",
@@ -3237,7 +3237,7 @@
     "inheritedEffect": "[Opponent's Turn] When any of your opponent's\n                            Digimon attack, by returning this Digimon with\n                            [Aqua] or [Sea Animal] in any of its traits to the\n                            bottom of the deck, return 1 of your opponent's\n                            Digimon with as high or lower a level as the\n                            returned Digimon to the hand.",
     "securityEffect": "-",
     "notes": "<a href=\"/products/pack/ver18-19/\">▹Special Booster Ver.2.0 [BT18-19]</a>",
-    "set": { "id": "bt18", "name": "Special Booster Ver.2.0 [BT18-19]" }
+    "set": { "id": "bt18-19", "name": "Special Booster Ver.2.0 [BT18-19]" }
   },
   {
     "id": "BT19-004",
@@ -3261,7 +3261,7 @@
     "inheritedEffect": "[Your Turn] While you have another green Digimon,\n                            this Digimon gets +2000 DP.",
     "securityEffect": "-",
     "notes": "<a href=\"/products/pack/ver18-19/\">▹Special Booster Ver.2.0 [BT18-19]</a>",
-    "set": { "id": "bt18", "name": "Special Booster Ver.2.0 [BT18-19]" }
+    "set": { "id": "bt18-19", "name": "Special Booster Ver.2.0 [BT18-19]" }
   },
   {
     "id": "BT19-006",
@@ -3285,7 +3285,7 @@
     "inheritedEffect": "[On Deletion] If deleted other than in battle,\n                            return 1 level 3 purple Digimon card from your trash\n                            to the hand.",
     "securityEffect": "-",
     "notes": "<a href=\"/products/pack/ver18-19/\">▹Special Booster Ver.2.0 [BT18-19]</a>",
-    "set": { "id": "bt18", "name": "Special Booster Ver.2.0 [BT18-19]" }
+    "set": { "id": "bt18-19", "name": "Special Booster Ver.2.0 [BT18-19]" }
   },
   {
     "id": "BT19-017",
@@ -3309,7 +3309,7 @@
     "inheritedEffect": "[End of Attack] [Once Per Turn] Gain 1 memory.",
     "securityEffect": "-",
     "notes": "<a href=\"/products/pack/ver18-19/\">▹Special Booster Ver.2.0 [BT18-19]</a>",
-    "set": { "id": "bt18", "name": "Special Booster Ver.2.0 [BT18-19]" }
+    "set": { "id": "bt18-19", "name": "Special Booster Ver.2.0 [BT18-19]" }
   },
   {
     "id": "BT19-017-p1",
@@ -3333,7 +3333,7 @@
     "inheritedEffect": "[End of Attack] [Once Per Turn] Gain 1 memory.",
     "securityEffect": "-",
     "notes": "<a href=\"/products/pack/ver18-19/\">▹Special Booster Ver.2.0 [BT18-19]</a>",
-    "set": { "id": "bt18", "name": "Special Booster Ver.2.0 [BT18-19]" }
+    "set": { "id": "bt18-19", "name": "Special Booster Ver.2.0 [BT18-19]" }
   },
   {
     "id": "BT19-018",
@@ -3357,7 +3357,7 @@
     "inheritedEffect": "＜Jamming＞ (This Digimon can't be deleted in\n                            battles against Security Digimon.)",
     "securityEffect": "-",
     "notes": "<a href=\"/products/pack/ver18-19/\">▹Special Booster Ver.2.0 [BT18-19]</a>",
-    "set": { "id": "bt18", "name": "Special Booster Ver.2.0 [BT18-19]" }
+    "set": { "id": "bt18-19", "name": "Special Booster Ver.2.0 [BT18-19]" }
   },
   {
     "id": "BT19-019",
@@ -3381,7 +3381,7 @@
     "inheritedEffect": "[End of Attack] [Once Per Turn] Gain 1 memory.",
     "securityEffect": "-",
     "notes": "<a href=\"/products/pack/ver18-19/\">▹Special Booster Ver.2.0 [BT18-19]</a>",
-    "set": { "id": "bt18", "name": "Special Booster Ver.2.0 [BT18-19]" }
+    "set": { "id": "bt18-19", "name": "Special Booster Ver.2.0 [BT18-19]" }
   },
   {
     "id": "BT19-021",
@@ -3405,7 +3405,7 @@
     "inheritedEffect": "＜Jamming＞ (This Digimon can't be deleted in\n                            battles against Security Digimon.)",
     "securityEffect": "-",
     "notes": "<a href=\"/products/pack/ver18-19/\">▹Special Booster Ver.2.0 [BT18-19]</a>",
-    "set": { "id": "bt18", "name": "Special Booster Ver.2.0 [BT18-19]" }
+    "set": { "id": "bt18-19", "name": "Special Booster Ver.2.0 [BT18-19]" }
   },
   {
     "id": "BT19-023",
@@ -3429,7 +3429,7 @@
     "inheritedEffect": "[Your Turn] This Digimon's attack targets can't\n                            change.",
     "securityEffect": "-",
     "notes": "<a href=\"/products/pack/ver18-19/\">▹Special Booster Ver.2.0 [BT18-19]</a>",
-    "set": { "id": "bt18", "name": "Special Booster Ver.2.0 [BT18-19]" }
+    "set": { "id": "bt18-19", "name": "Special Booster Ver.2.0 [BT18-19]" }
   },
   {
     "id": "BT19-024",
@@ -3453,7 +3453,7 @@
     "inheritedEffect": "[End of Attack] [Once Per Turn] You may play 1 level\n                            4 or lower Digimon card with [Aqua] or [Sea Animal]\n                            in any of its traits from this Digimon's\n                            digivolution cards without paying the cost.",
     "securityEffect": "-",
     "notes": "<a href=\"/products/pack/ver18-19/\">▹Special Booster Ver.2.0 [BT18-19]</a>",
-    "set": { "id": "bt18", "name": "Special Booster Ver.2.0 [BT18-19]" }
+    "set": { "id": "bt18-19", "name": "Special Booster Ver.2.0 [BT18-19]" }
   },
   {
     "id": "BT19-027",
@@ -3477,7 +3477,7 @@
     "inheritedEffect": "-",
     "securityEffect": "-",
     "notes": "<a href=\"/products/pack/ver18-19/\">▹Special Booster Ver.2.0 [BT18-19]</a>",
-    "set": { "id": "bt18", "name": "Special Booster Ver.2.0 [BT18-19]" }
+    "set": { "id": "bt18-19", "name": "Special Booster Ver.2.0 [BT18-19]" }
   },
   {
     "id": "BT19-027-p1",
@@ -3501,7 +3501,7 @@
     "inheritedEffect": "-",
     "securityEffect": "-",
     "notes": "<a href=\"/products/pack/ver18-19/\">▹Special Booster Ver.2.0 [BT18-19]</a>",
-    "set": { "id": "bt18", "name": "Special Booster Ver.2.0 [BT18-19]" }
+    "set": { "id": "bt18-19", "name": "Special Booster Ver.2.0 [BT18-19]" }
   },
   {
     "id": "BT19-028",
@@ -3525,7 +3525,7 @@
     "inheritedEffect": "-",
     "securityEffect": "-",
     "notes": "<a href=\"/products/pack/ver18-19/\">▹Special Booster Ver.2.0 [BT18-19]</a>",
-    "set": { "id": "bt18", "name": "Special Booster Ver.2.0 [BT18-19]" }
+    "set": { "id": "bt18-19", "name": "Special Booster Ver.2.0 [BT18-19]" }
   },
   {
     "id": "BT19-029",
@@ -3549,7 +3549,7 @@
     "inheritedEffect": "[All Turns] [Once Per Turn] When this yellow Digimon\n                            with the [Data] or [Witchelny] trait would leave the\n                            battle area by your opponent's effects, by trashing\n                            your top security card, it doesn't leave.",
     "securityEffect": "-",
     "notes": "<a href=\"/products/pack/ver18-19/\">▹Special Booster Ver.2.0 [BT18-19]</a>",
-    "set": { "id": "bt18", "name": "Special Booster Ver.2.0 [BT18-19]" }
+    "set": { "id": "bt18-19", "name": "Special Booster Ver.2.0 [BT18-19]" }
   },
   {
     "id": "BT19-032",
@@ -3573,7 +3573,7 @@
     "inheritedEffect": "＜Barrier＞ (When this Digimon would be deleted in\n                            battle, by trashing your top security card, it isn't\n                            deleted.)",
     "securityEffect": "-",
     "notes": "<a href=\"/products/pack/ver18-19/\">▹Special Booster Ver.2.0 [BT18-19]</a>",
-    "set": { "id": "bt18", "name": "Special Booster Ver.2.0 [BT18-19]" }
+    "set": { "id": "bt18-19", "name": "Special Booster Ver.2.0 [BT18-19]" }
   },
   {
     "id": "BT19-036",
@@ -3597,7 +3597,7 @@
     "inheritedEffect": "[All Turns] [Once Per Turn] When this yellow Digimon\n                            with the [Data] or [Witchelny] trait would leave the\n                            battle area by your opponent's effects, by trashing\n                            your top security card, it doesn't leave.",
     "securityEffect": "-",
     "notes": "<a href=\"/products/pack/ver18-19/\">▹Special Booster Ver.2.0 [BT18-19]</a>",
-    "set": { "id": "bt18", "name": "Special Booster Ver.2.0 [BT18-19]" }
+    "set": { "id": "bt18-19", "name": "Special Booster Ver.2.0 [BT18-19]" }
   },
   {
     "id": "BT19-039",
@@ -3621,7 +3621,7 @@
     "inheritedEffect": "[All Turns] [Once Per Turn] When your security stack\n                            is removed from, this Digimon may unsuspend.",
     "securityEffect": "-",
     "notes": "<a href=\"/products/pack/ver18-19/\">▹Special Booster Ver.2.0 [BT18-19]</a>",
-    "set": { "id": "bt18", "name": "Special Booster Ver.2.0 [BT18-19]" }
+    "set": { "id": "bt18-19", "name": "Special Booster Ver.2.0 [BT18-19]" }
   },
   {
     "id": "BT19-041",
@@ -3645,7 +3645,7 @@
     "inheritedEffect": "-",
     "securityEffect": "-",
     "notes": "<a href=\"/products/pack/ver18-19/\">▹Special Booster Ver.2.0 [BT18-19]</a>",
-    "set": { "id": "bt18", "name": "Special Booster Ver.2.0 [BT18-19]" }
+    "set": { "id": "bt18-19", "name": "Special Booster Ver.2.0 [BT18-19]" }
   },
   {
     "id": "BT19-042",
@@ -3669,7 +3669,7 @@
     "inheritedEffect": "-",
     "securityEffect": "-",
     "notes": "<a href=\"/products/pack/ver18-19/\">▹Special Booster Ver.2.0 [BT18-19]</a>",
-    "set": { "id": "bt18", "name": "Special Booster Ver.2.0 [BT18-19]" }
+    "set": { "id": "bt18-19", "name": "Special Booster Ver.2.0 [BT18-19]" }
   },
   {
     "id": "BT19-042-p1",
@@ -3693,7 +3693,7 @@
     "inheritedEffect": "-",
     "securityEffect": "-",
     "notes": "<a href=\"/products/pack/ver18-19/\">▹Special Booster Ver.2.0 [BT18-19]</a>",
-    "set": { "id": "bt18", "name": "Special Booster Ver.2.0 [BT18-19]" }
+    "set": { "id": "bt18-19", "name": "Special Booster Ver.2.0 [BT18-19]" }
   },
   {
     "id": "BT19-043",
@@ -3717,7 +3717,7 @@
     "inheritedEffect": "-",
     "securityEffect": "-",
     "notes": "<a href=\"/products/pack/ver18-19/\">▹Special Booster Ver.2.0 [BT18-19]</a>",
-    "set": { "id": "bt18", "name": "Special Booster Ver.2.0 [BT18-19]" }
+    "set": { "id": "bt18-19", "name": "Special Booster Ver.2.0 [BT18-19]" }
   },
   {
     "id": "BT19-043-p1",
@@ -3741,7 +3741,7 @@
     "inheritedEffect": "-",
     "securityEffect": "-",
     "notes": "<a href=\"/products/pack/ver18-19/\">▹Special Booster Ver.2.0 [BT18-19]</a>",
-    "set": { "id": "bt18", "name": "Special Booster Ver.2.0 [BT18-19]" }
+    "set": { "id": "bt18-19", "name": "Special Booster Ver.2.0 [BT18-19]" }
   },
   {
     "id": "BT19-045",
@@ -3765,7 +3765,7 @@
     "inheritedEffect": "[All Turns] This Digimon gets +1000 DP.",
     "securityEffect": "-",
     "notes": "<a href=\"/products/pack/ver18-19/\">▹Special Booster Ver.2.0 [BT18-19]</a>",
-    "set": { "id": "bt18", "name": "Special Booster Ver.2.0 [BT18-19]" }
+    "set": { "id": "bt18-19", "name": "Special Booster Ver.2.0 [BT18-19]" }
   },
   {
     "id": "BT19-046",
@@ -3789,7 +3789,7 @@
     "inheritedEffect": "-",
     "securityEffect": "-",
     "notes": "<a href=\"/products/pack/ver18-19/\">▹Special Booster Ver.2.0 [BT18-19]</a>",
-    "set": { "id": "bt18", "name": "Special Booster Ver.2.0 [BT18-19]" }
+    "set": { "id": "bt18-19", "name": "Special Booster Ver.2.0 [BT18-19]" }
   },
   {
     "id": "BT19-048",
@@ -3813,7 +3813,7 @@
     "inheritedEffect": "[All Turns] This Digimon gets +1000 DP.",
     "securityEffect": "-",
     "notes": "<a href=\"/products/pack/ver18-19/\">▹Special Booster Ver.2.0 [BT18-19]</a>",
-    "set": { "id": "bt18", "name": "Special Booster Ver.2.0 [BT18-19]" }
+    "set": { "id": "bt18-19", "name": "Special Booster Ver.2.0 [BT18-19]" }
   },
   {
     "id": "BT19-052",
@@ -3837,7 +3837,7 @@
     "inheritedEffect": "[All Turns] [Once Per Turn] When this Digimon\n                            deletes your opponent's Digimon in battle, trash\n                            their top security card.",
     "securityEffect": "-",
     "notes": "<a href=\"/products/pack/ver18-19/\">▹Special Booster Ver.2.0 [BT18-19]</a>",
-    "set": { "id": "bt18", "name": "Special Booster Ver.2.0 [BT18-19]" }
+    "set": { "id": "bt18-19", "name": "Special Booster Ver.2.0 [BT18-19]" }
   },
   {
     "id": "BT19-052-p1",
@@ -3861,7 +3861,7 @@
     "inheritedEffect": "[All Turns] [Once Per Turn] When this Digimon\n                            deletes your opponent's Digimon in battle, trash\n                            their top security card.",
     "securityEffect": "-",
     "notes": "<a href=\"/products/pack/ver18-19/\">▹Special Booster Ver.2.0 [BT18-19]</a>",
-    "set": { "id": "bt18", "name": "Special Booster Ver.2.0 [BT18-19]" }
+    "set": { "id": "bt18-19", "name": "Special Booster Ver.2.0 [BT18-19]" }
   },
   {
     "id": "BT19-053",
@@ -3885,7 +3885,7 @@
     "inheritedEffect": "-",
     "securityEffect": "-",
     "notes": "<a href=\"/products/pack/ver18-19/\">▹Special Booster Ver.2.0 [BT18-19]</a>",
-    "set": { "id": "bt18", "name": "Special Booster Ver.2.0 [BT18-19]" }
+    "set": { "id": "bt18-19", "name": "Special Booster Ver.2.0 [BT18-19]" }
   },
   {
     "id": "BT19-053-p1",
@@ -3909,7 +3909,7 @@
     "inheritedEffect": "-",
     "securityEffect": "-",
     "notes": "<a href=\"/products/pack/ver18-19/\">▹Special Booster Ver.2.0 [BT18-19]</a>",
-    "set": { "id": "bt18", "name": "Special Booster Ver.2.0 [BT18-19]" }
+    "set": { "id": "bt18-19", "name": "Special Booster Ver.2.0 [BT18-19]" }
   },
   {
     "id": "BT19-055",
@@ -3933,7 +3933,7 @@
     "inheritedEffect": "＜Reboot＞ (This Digimon also unsuspends in your\n                            opponent's unsuspend phase.)",
     "securityEffect": "-",
     "notes": "<a href=\"/products/pack/ver18-19/\">▹Special Booster Ver.2.0 [BT18-19]</a>",
-    "set": { "id": "bt18", "name": "Special Booster Ver.2.0 [BT18-19]" }
+    "set": { "id": "bt18-19", "name": "Special Booster Ver.2.0 [BT18-19]" }
   },
   {
     "id": "BT19-058",
@@ -3957,7 +3957,7 @@
     "inheritedEffect": "＜Blocker＞ (This Digimon can block in the blocker\n                            timing.)",
     "securityEffect": "-",
     "notes": "<a href=\"/products/pack/ver18-19/\">▹Special Booster Ver.2.0 [BT18-19]</a>",
-    "set": { "id": "bt18", "name": "Special Booster Ver.2.0 [BT18-19]" }
+    "set": { "id": "bt18-19", "name": "Special Booster Ver.2.0 [BT18-19]" }
   },
   {
     "id": "BT19-059",
@@ -3981,7 +3981,7 @@
     "inheritedEffect": "＜Reboot＞ (This Digimon also unsuspends in your\n                            opponent's unsuspend phase.)",
     "securityEffect": "-",
     "notes": "<a href=\"/products/pack/ver18-19/\">▹Special Booster Ver.2.0 [BT18-19]</a>",
-    "set": { "id": "bt18", "name": "Special Booster Ver.2.0 [BT18-19]" }
+    "set": { "id": "bt18-19", "name": "Special Booster Ver.2.0 [BT18-19]" }
   },
   {
     "id": "BT19-063",
@@ -4005,7 +4005,7 @@
     "inheritedEffect": "[On Deletion] You may play 1 level 4 or lower\n                            Digimon card with [Knightmon] in its text from your\n                            trash without paying the cost.",
     "securityEffect": "-",
     "notes": "<a href=\"/products/pack/ver18-19/\">▹Special Booster Ver.2.0 [BT18-19]</a>",
-    "set": { "id": "bt18", "name": "Special Booster Ver.2.0 [BT18-19]" }
+    "set": { "id": "bt18-19", "name": "Special Booster Ver.2.0 [BT18-19]" }
   },
   {
     "id": "BT19-065",
@@ -4029,7 +4029,7 @@
     "inheritedEffect": "[Opponent's Turn] [Once Per Turn] When any of your\n                            opponent's Digimon attack, you may change the attack\n                            target to 1 of your Digimon with the [Composite] or\n                            [Wicked God] trait.",
     "securityEffect": "-",
     "notes": "<a href=\"/products/pack/ver18-19/\">▹Special Booster Ver.2.0 [BT18-19]</a>",
-    "set": { "id": "bt18", "name": "Special Booster Ver.2.0 [BT18-19]" }
+    "set": { "id": "bt18-19", "name": "Special Booster Ver.2.0 [BT18-19]" }
   },
   {
     "id": "BT19-065-p1",
@@ -4053,7 +4053,7 @@
     "inheritedEffect": "[Opponent's Turn] [Once Per Turn] When any of your\n                            opponent's Digimon attack, you may change the attack\n                            target to 1 of your Digimon with the [Composite] or\n                            [Wicked God] trait.",
     "securityEffect": "-",
     "notes": "<a href=\"/products/pack/ver18-19/\">▹Special Booster Ver.2.0 [BT18-19]</a>",
-    "set": { "id": "bt18", "name": "Special Booster Ver.2.0 [BT18-19]" }
+    "set": { "id": "bt18-19", "name": "Special Booster Ver.2.0 [BT18-19]" }
   },
   {
     "id": "BT19-066",
@@ -4077,7 +4077,7 @@
     "inheritedEffect": "＜Blocker＞ (This Digimon can block in the blocker\n                            timing.)",
     "securityEffect": "-",
     "notes": "<a href=\"/products/pack/ver18-19/\">▹Special Booster Ver.2.0 [BT18-19]</a>",
-    "set": { "id": "bt18", "name": "Special Booster Ver.2.0 [BT18-19]" }
+    "set": { "id": "bt18-19", "name": "Special Booster Ver.2.0 [BT18-19]" }
   },
   {
     "id": "BT19-069",
@@ -4101,7 +4101,7 @@
     "inheritedEffect": "＜Blocker＞ (This Digimon can block in the blocker\n                            timing.)",
     "securityEffect": "-",
     "notes": "<a href=\"/products/pack/ver18-19/\">▹Special Booster Ver.2.0 [BT18-19]</a>",
-    "set": { "id": "bt18", "name": "Special Booster Ver.2.0 [BT18-19]" }
+    "set": { "id": "bt18-19", "name": "Special Booster Ver.2.0 [BT18-19]" }
   },
   {
     "id": "BT19-070",
@@ -4125,7 +4125,7 @@
     "inheritedEffect": "＜Security A. +1＞ (This Digimon checks 1 additional\n                            security card.)",
     "securityEffect": "-",
     "notes": "<a href=\"/products/pack/ver18-19/\">▹Special Booster Ver.2.0 [BT18-19]</a>",
-    "set": { "id": "bt18", "name": "Special Booster Ver.2.0 [BT18-19]" }
+    "set": { "id": "bt18-19", "name": "Special Booster Ver.2.0 [BT18-19]" }
   },
   {
     "id": "BT19-070-p1",
@@ -4149,7 +4149,7 @@
     "inheritedEffect": "＜Security A. +1＞ (This Digimon checks 1 additional\n                            security card.)",
     "securityEffect": "-",
     "notes": "<a href=\"/products/pack/ver18-19/\">▹Special Booster Ver.2.0 [BT18-19]</a>",
-    "set": { "id": "bt18", "name": "Special Booster Ver.2.0 [BT18-19]" }
+    "set": { "id": "bt18-19", "name": "Special Booster Ver.2.0 [BT18-19]" }
   },
   {
     "id": "BT19-072",
@@ -4173,7 +4173,7 @@
     "inheritedEffect": "-",
     "securityEffect": "-",
     "notes": "<a href=\"/products/pack/ver18-19/\">▹Special Booster Ver.2.0 [BT18-19]</a>",
-    "set": { "id": "bt18", "name": "Special Booster Ver.2.0 [BT18-19]" }
+    "set": { "id": "bt18-19", "name": "Special Booster Ver.2.0 [BT18-19]" }
   },
   {
     "id": "BT19-073",
@@ -4197,7 +4197,7 @@
     "inheritedEffect": "-",
     "securityEffect": "-",
     "notes": "<a href=\"/products/pack/ver18-19/\">▹Special Booster Ver.2.0 [BT18-19]</a>",
-    "set": { "id": "bt18", "name": "Special Booster Ver.2.0 [BT18-19]" }
+    "set": { "id": "bt18-19", "name": "Special Booster Ver.2.0 [BT18-19]" }
   },
   {
     "id": "BT19-073-p1",
@@ -4221,7 +4221,7 @@
     "inheritedEffect": "-",
     "securityEffect": "-",
     "notes": "<a href=\"/products/pack/ver18-19/\">▹Special Booster Ver.2.0 [BT18-19]</a>",
-    "set": { "id": "bt18", "name": "Special Booster Ver.2.0 [BT18-19]" }
+    "set": { "id": "bt18-19", "name": "Special Booster Ver.2.0 [BT18-19]" }
   },
   {
     "id": "BT19-075",
@@ -4245,7 +4245,7 @@
     "inheritedEffect": "-",
     "securityEffect": "-",
     "notes": "<a href=\"/products/pack/ver18-19/\">▹Special Booster Ver.2.0 [BT18-19]</a>",
-    "set": { "id": "bt18", "name": "Special Booster Ver.2.0 [BT18-19]" }
+    "set": { "id": "bt18-19", "name": "Special Booster Ver.2.0 [BT18-19]" }
   },
   {
     "id": "BT19-075-p1",
@@ -4269,7 +4269,7 @@
     "inheritedEffect": "-",
     "securityEffect": "-",
     "notes": "<a href=\"/products/pack/ver18-19/\">▹Special Booster Ver.2.0 [BT18-19]</a>",
-    "set": { "id": "bt18", "name": "Special Booster Ver.2.0 [BT18-19]" }
+    "set": { "id": "bt18-19", "name": "Special Booster Ver.2.0 [BT18-19]" }
   },
   {
     "id": "BT19-082",
@@ -4293,7 +4293,7 @@
     "inheritedEffect": "-",
     "securityEffect": "[Security] Play this card without paying the cost.",
     "notes": "<a href=\"/products/pack/ver18-19/\">▹Special Booster Ver.2.0 [BT18-19]</a>",
-    "set": { "id": "bt18", "name": "Special Booster Ver.2.0 [BT18-19]" }
+    "set": { "id": "bt18-19", "name": "Special Booster Ver.2.0 [BT18-19]" }
   },
   {
     "id": "BT19-082-p1",
@@ -4317,7 +4317,7 @@
     "inheritedEffect": "-",
     "securityEffect": "[Security] Play this card without paying the cost.",
     "notes": "<a href=\"/products/pack/ver18-19/\">▹Special Booster Ver.2.0 [BT18-19]</a>",
-    "set": { "id": "bt18", "name": "Special Booster Ver.2.0 [BT18-19]" }
+    "set": { "id": "bt18-19", "name": "Special Booster Ver.2.0 [BT18-19]" }
   },
   {
     "id": "BT19-084",
@@ -4341,7 +4341,7 @@
     "inheritedEffect": "-",
     "securityEffect": "[Security] Play this card without paying the cost.",
     "notes": "<a href=\"/products/pack/ver18-19/\">▹Special Booster Ver.2.0 [BT18-19]</a>",
-    "set": { "id": "bt18", "name": "Special Booster Ver.2.0 [BT18-19]" }
+    "set": { "id": "bt18-19", "name": "Special Booster Ver.2.0 [BT18-19]" }
   },
   {
     "id": "BT19-084-p1",
@@ -4365,7 +4365,7 @@
     "inheritedEffect": "-",
     "securityEffect": "[Security] Play this card without paying the cost.",
     "notes": "<a href=\"/products/pack/ver18-19/\">▹Special Booster Ver.2.0 [BT18-19]</a>",
-    "set": { "id": "bt18", "name": "Special Booster Ver.2.0 [BT18-19]" }
+    "set": { "id": "bt18-19", "name": "Special Booster Ver.2.0 [BT18-19]" }
   },
   {
     "id": "BT19-087",
@@ -4389,7 +4389,7 @@
     "inheritedEffect": "-",
     "securityEffect": "[Security] Play this card without paying the cost.",
     "notes": "<a href=\"/products/pack/ver18-19/\">▹Special Booster Ver.2.0 [BT18-19]</a>",
-    "set": { "id": "bt18", "name": "Special Booster Ver.2.0 [BT18-19]" }
+    "set": { "id": "bt18-19", "name": "Special Booster Ver.2.0 [BT18-19]" }
   },
   {
     "id": "BT19-087-p1",
@@ -4413,7 +4413,7 @@
     "inheritedEffect": "-",
     "securityEffect": "[Security] Play this card without paying the cost.",
     "notes": "<a href=\"/products/pack/ver18-19/\">▹Special Booster Ver.2.0 [BT18-19]</a>",
-    "set": { "id": "bt18", "name": "Special Booster Ver.2.0 [BT18-19]" }
+    "set": { "id": "bt18-19", "name": "Special Booster Ver.2.0 [BT18-19]" }
   },
   {
     "id": "BT19-092",
@@ -4437,7 +4437,7 @@
     "inheritedEffect": "-",
     "securityEffect": "[Security] Activate this card's [Main] effects.",
     "notes": "<a href=\"/products/pack/ver18-19/\">▹Special Booster Ver.2.0 [BT18-19]</a>",
-    "set": { "id": "bt18", "name": "Special Booster Ver.2.0 [BT18-19]" }
+    "set": { "id": "bt18-19", "name": "Special Booster Ver.2.0 [BT18-19]" }
   },
   {
     "id": "BT19-094",
@@ -4461,7 +4461,7 @@
     "inheritedEffect": "-",
     "securityEffect": "[Security] You may play 1 [Lucemon] from your trash\n                            without paying the cost.",
     "notes": "<a href=\"/products/pack/ver18-19/\">▹Special Booster Ver.2.0 [BT18-19]</a>",
-    "set": { "id": "bt18", "name": "Special Booster Ver.2.0 [BT18-19]" }
+    "set": { "id": "bt18-19", "name": "Special Booster Ver.2.0 [BT18-19]" }
   },
   {
     "id": "BT19-096",
@@ -4485,7 +4485,7 @@
     "inheritedEffect": "-",
     "securityEffect": "[Security] Activate this card's [Main] effects.",
     "notes": "<a href=\"/products/pack/ver18-19/\">▹Special Booster Ver.2.0 [BT18-19]</a>",
-    "set": { "id": "bt18", "name": "Special Booster Ver.2.0 [BT18-19]" }
+    "set": { "id": "bt18-19", "name": "Special Booster Ver.2.0 [BT18-19]" }
   },
   {
     "id": "BT19-099",
@@ -4509,7 +4509,7 @@
     "inheritedEffect": "-",
     "securityEffect": "[Security] Place this card in the battle area.",
     "notes": "<a href=\"/products/pack/ver18-19/\">▹Special Booster Ver.2.0 [BT18-19]</a>",
-    "set": { "id": "bt18", "name": "Special Booster Ver.2.0 [BT18-19]" }
+    "set": { "id": "bt18-19", "name": "Special Booster Ver.2.0 [BT18-19]" }
   },
   {
     "id": "BT19-101",
@@ -4533,7 +4533,7 @@
     "inheritedEffect": "-",
     "securityEffect": "-",
     "notes": "<a href=\"/products/pack/ver18-19/\">▹Special Booster Ver.2.0 [BT18-19]</a>",
-    "set": { "id": "bt18", "name": "Special Booster Ver.2.0 [BT18-19]" }
+    "set": { "id": "bt18-19", "name": "Special Booster Ver.2.0 [BT18-19]" }
   },
   {
     "id": "BT19-101-p1",
@@ -4557,7 +4557,7 @@
     "inheritedEffect": "-",
     "securityEffect": "-",
     "notes": "<a href=\"/products/pack/ver18-19/\">▹Special Booster Ver.2.0 [BT18-19]</a>",
-    "set": { "id": "bt18", "name": "Special Booster Ver.2.0 [BT18-19]" }
+    "set": { "id": "bt18-19", "name": "Special Booster Ver.2.0 [BT18-19]" }
   },
   {
     "id": "BT19-101-p2",
@@ -4581,7 +4581,7 @@
     "inheritedEffect": "-",
     "securityEffect": "-",
     "notes": "<a href=\"/products/pack/ver18-19/\">▹Special Booster Ver.2.0 [BT18-19]</a>",
-    "set": { "id": "bt18", "name": "Special Booster Ver.2.0 [BT18-19]" }
+    "set": { "id": "bt18-19", "name": "Special Booster Ver.2.0 [BT18-19]" }
   },
   {
     "id": "EX2-073-p4",
@@ -4605,6 +4605,6 @@
     "inheritedEffect": "-",
     "securityEffect": "-",
     "notes": "<a href=\"/products/pack/ver18-19/\">▹Special Booster Ver.2.0 [BT18-19]</a>",
-    "set": { "id": "bt18", "name": "Special Booster Ver.2.0 [BT18-19]" }
+    "set": { "id": "bt18-19", "name": "Special Booster Ver.2.0 [BT18-19]" }
   }
 ]
